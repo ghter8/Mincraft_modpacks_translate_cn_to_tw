@@ -1,0 +1,15 @@
+{
+  "target_class": [
+    "net.mehvahdjukaar.supplementaries.client.renderers.platform.PicklePlayer"
+  ],
+  "pairs": [
+    {
+      "key": "I am Jarman",
+      "value": "我是 Jarman"
+    },
+    {
+      "key": "I turned myself into a pickle!",
+      "value": "我把自己腌成了泡菜！"
+    }
+  ]
+}

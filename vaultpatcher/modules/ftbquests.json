@@ -1,0 +1,177 @@
+[
+  {
+    "name": "ftbquests_zh_cn",
+    "desc": "ftb-quests-neoforge-2101.1.34.jar 硬编码文本汉化",
+    "authors": "Auto-Translation-Tool",
+    "mods": "ftb-quests-neoforge-2101.1.34.jar",
+    "dynamic": false,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "dev.ftb.mods.ftbquests.client.gui.RewardSelectorScreen$CustomBottomPanel"
+    ],
+    "pairs": [
+      {
+        "key": "Suppressed by quest book configuration",
+        "value": "已被任务书配置屏蔽"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "dev.ftb.mods.ftbquests.client.gui.SelectQuestObjectScreen$QuestObjectButton"
+    ],
+    "pairs": [
+      {
+        "key": "Type: ",
+        "value": "类型： "
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "dev.ftb.mods.ftbquests.client.gui.VisualPresetsEditorScreen$AddEditPresetOverlay"
+    ],
+    "pairs": [
+      {
+        "key": "Enter",
+        "value": "回车"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "dev.ftb.mods.ftbquests.client.gui.quests.QuestButton"
+    ],
+    "pairs": [
+      {
+        "key": "Ctrl+A to select all quests",
+        "value": "按 Ctrl+A 选择全部任务"
+      },
+      {
+        "key": "Ctrl+D to deselect all quests",
+        "value": "按 Ctrl+D 取消选择全部任务"
+      },
+      {
+        "key": "Ctrl+Arrow Key to move selected quests",
+        "value": "按 Ctrl+方向键移动已选任务"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "dev.ftb.mods.ftbquests.client.gui.quests.QuestPanel"
+    ],
+    "pairs": [
+      {
+        "key": "Moving",
+        "value": "移动中"
+      },
+      {
+        "key": "Lang: ",
+        "value": "语言： "
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "dev.ftb.mods.ftbquests.client.gui.quests.ViewQuestPanel"
+    ],
+    "pairs": [
+      {
+        "key": "[No Subtitle]",
+        "value": "[无副标题]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "dev.ftb.mods.ftbquests.client.gui.quests.ViewQuestPanel$QuestDescriptionField"
+    ],
+    "pairs": [
+      {
+        "key": "Can't open url for %s (%s)",
+        "value": "无法为 %s 打开网址（%s）"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "dev.ftb.mods.ftbquests.quest.ChapterGroup"
+    ],
+    "pairs": [
+      {
+        "key": "Unnamed Group",
+        "value": "未命名组"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "dev.ftb.mods.ftbquests.quest.loot.RewardTable"
+    ],
+    "pairs": [
+      {
+        "key": "Unknown reward type!",
+        "value": "未知奖励类型！"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "dev.ftb.mods.ftbquests.quest.task.ItemTask"
+    ],
+    "pairs": [
+      {
+        "key": "No valid items!",
+        "value": "无有效物品！"
+      },
+      {
+        "key": "Report this bug to modpack author!",
+        "value": "请向模组包作者报告此漏洞！"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "dev.ftb.mods.ftbquests.quest.task.Task"
+    ],
+    "pairs": [
+      {
+        "key": "Bad resource location: ",
+        "value": "错误的资源位置： "
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "dev.ftb.mods.ftbquests.client.gui.quests.ViewQuestPanel$4"
+    ],
+    "pairs": [
+      {
+        "key": "[Page Down]",
+        "value": "[向下翻页]"
+      },
+      {
+        "key": "[Mousewheel Down]",
+        "value": "[鼠标滚轮向下]"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "dev.ftb.mods.ftbquests.client.gui.quests.ViewQuestPanel$5"
+    ],
+    "pairs": [
+      {
+        "key": "[Page Up]",
+        "value": "[上一页]"
+      },
+      {
+        "key": "[Mousewheel Up]",
+        "value": "[鼠标滚轮向上]"
+      }
+    ]
+  }
+]

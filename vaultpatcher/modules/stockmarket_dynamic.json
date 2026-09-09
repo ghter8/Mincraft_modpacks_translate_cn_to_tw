@@ -1,0 +1,81 @@
+[
+  {
+    "name": "stockmarket_dynamic_zh_cn",
+    "desc": "create-stockmarket-1.1.0+mc1.21.1.jar 硬编码文本汉化（动态替换）",
+    "authors": "Auto-Translation-Tool",
+    "mods": "create-stockmarket-1.1.0+mc1.21.1.jar",
+    "dynamic": true,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "by.deokma.stockmarket.neoforge.client.ShopListScreen"
+    ],
+    "pairs": [
+      {
+        "key": "Search...",
+        "value": "搜索..."
+      },
+      {
+        "key": "§8Numismatics Vendor",
+        "value": "§8钱币商人"
+      },
+      {
+        "key": "§e★ Favourited",
+        "value": "§e★ 已收藏"
+      },
+      {
+        "key": "§7Price: §f",
+        "value": "§7价格：§f"
+      },
+      {
+        "key": "§7Owner: §b",
+        "value": "§7所有者：§b"
+      },
+      {
+        "key": "§7Mode: ",
+        "value": "§7模式： "
+      },
+      {
+        "key": "§7Pos: §f",
+        "value": "§7位置：§f"
+      },
+      {
+        "key": "§7Dim: §8",
+        "value": "§7维度：§8"
+      },
+      {
+        "key": "Loading...",
+        "value": "加载中..."
+      },
+      {
+        "key": "No shops found",
+        "value": "未找到商店"
+      },
+      {
+        "key": "§8Create: Tradeworks",
+        "value": "§8机械动力：贸易工坊"
+      },
+      {
+        "key": "★ Fav",
+        "value": "★ 收藏"
+      },
+      {
+        "key": "§8Create TableCloth Shop",
+        "value": "§8创建桌布商店"
+      },
+      {
+        "key": "↕ scroll  col → sort  ★ fav",
+        "value": "↕ 滚动  列 → 排序  ★ 收藏"
+      },
+      {
+        "key": "Add to map",
+        "value": "添加至地图"
+      },
+      {
+        "key": "§6\u0001 §7products in store",
+        "value": "§6\u0001 §7 件商品在售"
+      }
+    ]
+  }
+]

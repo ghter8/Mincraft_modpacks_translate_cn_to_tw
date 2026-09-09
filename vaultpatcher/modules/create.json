@@ -1,0 +1,21 @@
+[
+  {
+    "name": "create_zh_cn",
+    "desc": "create-1.21.1-6.0.10.jar 硬编码文本汉化",
+    "authors": "Auto-Translation-Tool",
+    "mods": "create-1.21.1-6.0.10.jar",
+    "dynamic": false,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "com.simibubi.create.foundation.item.Builder"
+    ],
+    "pairs": [
+      {
+        "key": "Invalid lang formatting!",
+        "value": "语言格式无效！"
+      }
+    ]
+  }
+]

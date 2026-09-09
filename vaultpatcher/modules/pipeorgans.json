@@ -1,0 +1,25 @@
+[
+  {
+    "name": "pipeorgans_zh_cn",
+    "desc": "pipeorgans-0.8.2+1.21.1.jar 硬编码文本汉化",
+    "authors": "Auto-Translation-Tool",
+    "mods": "pipeorgans-0.8.2+1.21.1.jar",
+    "dynamic": false,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "com.finchy.pipeorgans.midi.server.ServerMidiLoader"
+    ],
+    "pairs": [
+      {
+        "key": "Midi upload too large",
+        "value": "Midi文件上传过大"
+      },
+      {
+        "key": "Maximum size is",
+        "value": "大小上限为"
+      }
+    ]
+  }
+]

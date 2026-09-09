@@ -1,0 +1,44 @@
+[
+  {
+    "name": "craterlib_zh_cn",
+    "desc": "CraterLib-Neoforge-1.21-3.1.2.jar 硬编码文本汉化",
+    "authors": "Auto-Translation-Tool",
+    "mods": "CraterLib-Neoforge-1.21-3.1.2.jar",
+    "dynamic": false,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "com.hypherionmc.craterlib.client.gui.config.ClothConfigScreenBuilder"
+    ],
+    "pairs": [
+      {
+        "key": "Entries",
+        "value": "条目"
+      },
+      {
+        "key": "General",
+        "value": "常规"
+      },
+      {
+        "key": "Failed To Save Config",
+        "value": "保存配置失败"
+      },
+      {
+        "key": "Restoring Backup Copy. Check log for details",
+        "value": "正在恢复备份副本。请查看日志获取详细信息"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "com.hypherionmc.craterlib.libs.kyori.adventure.text.flattener.ComponentFlattenerImpl"
+    ],
+    "pairs": [
+      {
+        "key": "unknown player",
+        "value": "未知玩家"
+      }
+    ]
+  }
+]

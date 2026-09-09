@@ -1,0 +1,51 @@
+[
+  {
+    "name": "xaeroworldmap_zh_cn",
+    "desc": "xaeroworldmap-neoforge-1.21.1-1.45.0.jar 硬编码文本汉化",
+    "authors": "Auto-Translation-Tool",
+    "mods": "xaeroworldmap-neoforge-1.21.1-1.45.0.jar",
+    "dynamic": false,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "xaero.map.gui.GuiMap"
+    ],
+    "pairs": [
+      {
+        "key": "MultiWorld ID: ",
+        "value": "多世界 ID： "
+      },
+      {
+        "key": "Preparing World Map...",
+        "value": "正在准备世界地图……"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "xaero.map.gui.GuiWorldMapSettings"
+    ],
+    "pairs": [
+      {
+        "key": "Pause Requests",
+        "value": "暂停请求"
+      },
+      {
+        "key": "Extra Debug",
+        "value": "额外调试"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "xaero.map.mods.pac.SupportOpenPartiesAndClaims$7"
+    ],
+    "pairs": [
+      {
+        "key": "oclaims interrupt",
+        "value": "OClaims 中断"
+      }
+    ]
+  }
+]

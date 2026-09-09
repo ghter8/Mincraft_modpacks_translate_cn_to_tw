@@ -1,0 +1,73 @@
+[
+  {
+    "name": "mousetweaks_dynamic_zh_cn",
+    "desc": "MouseTweaks-neoforge-mc1.21-2.26.1.jar 硬编码文本汉化（动态替换）",
+    "authors": "Auto-Translation-Tool",
+    "mods": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+    "dynamic": true,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "yalter.mousetweaks.ConfigScreen"
+    ],
+    "pairs": [
+      {
+        "key": "Mouse Tweaks Options",
+        "value": "鼠标微调选项"
+      },
+      {
+        "key": "RMB Tweak",
+        "value": "右键微调"
+      },
+      {
+        "key": "Wheel Tweak",
+        "value": "滚轮微调"
+      },
+      {
+        "key": "Wheel Tweak Search Order",
+        "value": "鼠标滚轮微调搜索顺序"
+      },
+      {
+        "key": "Scroll Direction",
+        "value": "滚动方向"
+      },
+      {
+        "key": "Scroll Scaling",
+        "value": "滚动缩放"
+      },
+      {
+        "key": "First to Last",
+        "value": "从头到尾"
+      },
+      {
+        "key": "Last to First",
+        "value": "从尾到首"
+      },
+      {
+        "key": "Down to Push, Up to Pull",
+        "value": "向下滚动以推入，向上滚动以抽出"
+      },
+      {
+        "key": "Up to Push, Down to Pull",
+        "value": "向上滚动以推入，向下滚动以抽出"
+      },
+      {
+        "key": "Inventory Position Aware",
+        "value": "物品栏位置感知"
+      },
+      {
+        "key": "Inventory Position Aware, Inverted",
+        "value": "物品栏位置感知（反向）"
+      },
+      {
+        "key": "Multiple Wheel Clicks Move Multiple Items",
+        "value": "鼠标滚轮多次点击可移动多个物品"
+      },
+      {
+        "key": "Always Move One Item (macOS Compatibility)",
+        "value": "始终移动一个物品（macOS 兼容性）"
+      }
+    ]
+  }
+]

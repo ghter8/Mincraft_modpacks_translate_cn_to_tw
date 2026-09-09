@@ -1,0 +1,59 @@
+[
+  {
+    "name": "patchouli_zh_cn",
+    "desc": "Patchouli-1.21.1-93-NEOFORGE.jar 硬编码文本汉化",
+    "authors": "Auto-Translation-Tool",
+    "mods": "Patchouli-1.21.1-93-NEOFORGE.jar",
+    "dynamic": false,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "vazkii.patchouli.client.book.text.BookTextParser"
+    ],
+    "pairs": [
+      {
+        "key": "BAD LINK: Cannot specify anchor when linking to a category",
+        "value": "错误链接：链接至分类时不能指定锚点"
+      },
+      {
+        "key": "INVALID COMMAND (must begin with /)",
+        "value": "无效命令（必须以 / 开头）"
+      },
+      {
+        "key": "BAD LINK: ",
+        "value": "连接已损坏： "
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "vazkii.patchouli.common.book.Book"
+    ],
+    "pairs": [
+      {
+        "key": "macro value",
+        "value": "宏数值"
+      },
+      {
+        "key": "Book %s has use_resource_pack set to false. ",
+        "value": "书本 %s 的 use_resource_pack 设置为 false。 "
+      },
+      {
+        "key": "Book %s is declared to extend %s. ",
+        "value": "书籍 %s 被声明为扩展 %s。 "
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "vazkii.patchouli.common.item.ItemModBook"
+    ],
+    "pairs": [
+      {
+        "key": "Book ID: ",
+        "value": "书本 ID: "
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "name": "create_mobile_packages_dynamic_zh_cn",
+    "desc": "create_mobile_packages-1.21.1-0.7.7.jar 硬编码文本汉化（动态替换）",
+    "authors": "Auto-Translation-Tool",
+    "mods": "create_mobile_packages-1.21.1-0.7.7.jar",
+    "dynamic": true,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "de.theidler.create_mobile_packages.network_settings.NetworkSettingsScreen"
+    ],
+    "pairs": [
+      {
+        "key": "Click to close",
+        "value": "点击关闭"
+      },
+      {
+        "key": "Loading...",
+        "value": "加载中..."
+      }
+    ]
+  }
+]

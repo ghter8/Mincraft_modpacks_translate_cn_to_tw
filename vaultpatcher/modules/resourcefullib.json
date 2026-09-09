@@ -1,0 +1,21 @@
+[
+  {
+    "name": "resourcefullib_zh_cn",
+    "desc": "resourcefullib-neoforge-1.21-3.0.12.jar 硬编码文本汉化",
+    "authors": "Auto-Translation-Tool",
+    "mods": "resourcefullib-neoforge-1.21-3.0.12.jar",
+    "dynamic": false,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "com.teamresourceful.resourcefullib.client.highlights.state.StateVariant"
+    ],
+    "pairs": [
+      {
+        "key": "State variants can not be encoded back to a string.",
+        "value": "状态变体无法重新编码为字符串。"
+      }
+    ]
+  }
+]

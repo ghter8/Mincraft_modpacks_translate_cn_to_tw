@@ -1,0 +1,21 @@
+[
+  {
+    "name": "neruina_zh_cn",
+    "desc": "neruina-3.3.3+1.21.1-neoforge.jar 硬编码文本汉化",
+    "authors": "Auto-Translation-Tool",
+    "mods": "neruina-3.3.3+1.21.1-neoforge.jar",
+    "dynamic": false,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "com.bawnorton.neruina.report.IssueFormatter"
+    ],
+    "pairs": [
+      {
+        "key": "Neruina Auto Report",
+        "value": "Neruina 自动举报"
+      }
+    ]
+  }
+]

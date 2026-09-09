@@ -1,0 +1,29 @@
+[
+  {
+    "name": "jeresources_zh_cn",
+    "desc": "JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar 硬编码文本汉化",
+    "authors": "Auto-Translation-Tool",
+    "mods": "JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar",
+    "dynamic": false,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "jeresources.profiling.Profiler"
+    ],
+    "pairs": [
+      {
+        "key": "Command not yet re-implemented, profiling will be re-added in the future",
+        "value": "命令尚未重新实现，性能分析功能将在未来重新添加"
+      },
+      {
+        "key": "Unable to profile dimension ",
+        "value": "无法分析维度 "
+      },
+      {
+        "key": "Inspecting dimension ",
+        "value": "正在检查维度 "
+      }
+    ]
+  }
+]

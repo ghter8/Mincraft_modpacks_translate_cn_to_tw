@@ -1,0 +1,11 @@
+{
+  "t.clc.opensubconfig": "打开配置",
+  "t.clc.save": "保存",
+  "t.clc.cancel_discard": "放弃",
+  "t.clc.quit_config": "未保存的更改",
+  "t.clc.quit_config_sure": "您有未保存的配置更改。确定要放弃这些更改吗？",
+  "t.clc.quit_discard": "退出 & 放弃",
+  "cl.buttons.edit": "编辑",
+  "cl.buttons.add_entry": "+ 添加条目",
+  "cl.buttons.entry": "条目 %s"
+}

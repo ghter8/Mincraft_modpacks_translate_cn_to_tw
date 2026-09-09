@@ -1,0 +1,21 @@
+[
+  {
+    "name": "integrated_api_zh_cn",
+    "desc": "integrated_api-neoforge-1.21.1-1.8.0.jar 硬编码文本汉化",
+    "authors": "Auto-Translation-Tool",
+    "mods": "integrated_api-neoforge-1.21.1-1.8.0.jar",
+    "dynamic": false,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "com.craisinlord.integrated_api.world.terrainadaptation.EnhancedTerrainAdaptationType"
+    ],
+    "pairs": [
+      {
+        "key": "Unknown enhanced terrain adaptation type: ",
+        "value": "未知的强化地形适应类型： "
+      }
+    ]
+  }
+]

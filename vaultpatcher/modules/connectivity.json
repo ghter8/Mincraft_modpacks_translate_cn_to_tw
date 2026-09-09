@@ -1,0 +1,49 @@
+[
+  {
+    "name": "connectivity_zh_cn",
+    "desc": "connectivity-1.21.1-7.6.jar 硬编码文本汉化",
+    "authors": "Auto-Translation-Tool",
+    "mods": "connectivity-1.21.1-7.6.jar",
+    "dynamic": false,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "com.connectivity.networkstats.NetworkStatGatherer"
+    ],
+    "pairs": [
+      {
+        "key": "next --->",
+        "value": "下一个 --->"
+      },
+      {
+        "key": "Player not found",
+        "value": "未找到玩家"
+      },
+      {
+        "key": "Invalid name",
+        "value": "无效名称"
+      },
+      {
+        "key": "total sent: ",
+        "value": "总发送量： "
+      },
+      {
+        "key": "Total kb:",
+        "value": "总 KB 数："
+      },
+      {
+        "key": "Printing biggest packets fitting ",
+        "value": "正在打印可容纳的最大数据包 "
+      },
+      {
+        "key": "Printed: ",
+        "value": "已打印： "
+      },
+      {
+        "key": "Print triggered by command",
+        "value": "由命令触发的打印"
+      }
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "name": "backpacked_zh_cn",
+    "desc": "backpacked-neoforge-1.21.1-3.0.5.jar 硬编码文本汉化",
+    "authors": "Auto-Translation-Tool",
+    "mods": "backpacked-neoforge-1.21.1-3.0.5.jar",
+    "dynamic": false,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "com.mrcrayfish.backpacked.client.gui.screen.CustomiseBackpackScreen$BackpackModelItem"
+    ],
+    "pairs": [
+      {
+        "key": "Copied ",
+        "value": "已复制 "
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "com.mrcrayfish.backpacked.common.augment.AugmentType"
+    ],
+    "pairs": [
+      {
+        "key": "Unknown augment type: ",
+        "value": "未知的增强件类型： "
+      },
+      {
+        "key": "Unregistered augment type: ",
+        "value": "未注册的增强件类型： "
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "com.mrcrayfish.backpacked.common.tracker.ProgressFormatter"
+    ],
+    "pairs": [
+      {
+        "key": "Formatter does not exist: ",
+        "value": "格式化工具不存在： "
+      },
+      {
+        "key": "Unregistered formatter",
+        "value": "未注册的格式化器"
+      }
+    ]
+  }
+]

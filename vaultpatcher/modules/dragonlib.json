@@ -1,0 +1,29 @@
+[
+  {
+    "name": "dragonlib_zh_cn",
+    "desc": "dragonlib-neoforge-1.21.1-beta-3.0.28.jar 硬编码文本汉化",
+    "authors": "Auto-Translation-Tool",
+    "mods": "dragonlib-neoforge-1.21.1-beta-3.0.28.jar",
+    "dynamic": false,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "de.mrjulsen.mcdragonlib.client.gui.widgets.components.DLRichTextLabel"
+    ],
+    "pairs": [
+      {
+        "key": "Click to open URL",
+        "value": "点击打开 URL"
+      },
+      {
+        "key": "Click to copy to clipboard",
+        "value": "点击以复制到剪贴板"
+      },
+      {
+        "key": "Click to run action",
+        "value": "点击以运行动作"
+      }
+    ]
+  }
+]

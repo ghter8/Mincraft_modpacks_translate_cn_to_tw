@@ -1,0 +1,21 @@
+[
+  {
+    "name": "watut_zh_cn",
+    "desc": "watut-neoforge-1.21.0-1.2.7.jar 硬编码文本汉化",
+    "authors": "Auto-Translation-Tool",
+    "mods": "watut-neoforge-1.21.0-1.2.7.jar",
+    "dynamic": false,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "com.corosus.watut.PlayerStatusManagerServer"
+    ],
+    "pairs": [
+      {
+        "key": "itemstack too large for sending, using simple version",
+        "value": "物品堆叠过大无法发送，改用简化版本"
+      }
+    ]
+  }
+]

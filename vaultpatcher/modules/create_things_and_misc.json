@@ -1,0 +1,69 @@
+[
+  {
+    "name": "create_things_and_misc_zh_cn",
+    "desc": "create_things_and_misc-4.1.1-neoforge-1.21.1.jar 硬编码文本汉化",
+    "authors": "Auto-Translation-Tool",
+    "mods": "create_things_and_misc-4.1.1-neoforge-1.21.1.jar",
+    "dynamic": false,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "net.mcreator.createatam.procedures.CardGuiClickProcedure"
+    ],
+    "pairs": [
+      {
+        "key": "you can't use a blank card",
+        "value": "你无法使用空白卡"
+      },
+      {
+        "key": "The reference card is now ",
+        "value": "参考卡现在为 "
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.createatam.procedures.InsciberClickProcedure"
+    ],
+    "pairs": [
+      {
+        "key": "Your item was inscribed",
+        "value": "您的物品已被铭刻"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.createatam.procedures.MagnifyingGlassRightclickedProcedure"
+    ],
+    "pairs": [
+      {
+        "key": "This item is inscribed with : \"",
+        "value": "此物品上刻有： \""
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.createatam.block.BrassSpeakerBlock$1"
+    ],
+    "pairs": [
+      {
+        "key": "Brass Speaker",
+        "value": "黄铜扬声器"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mcreator.createatam.block.CardScripterBlock$1"
+    ],
+    "pairs": [
+      {
+        "key": "Card Inscriber",
+        "value": "写磁器"
+      }
+    ]
+  }
+]

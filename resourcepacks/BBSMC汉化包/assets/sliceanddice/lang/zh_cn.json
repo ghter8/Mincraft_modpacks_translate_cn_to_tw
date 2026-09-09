@@ -1,0 +1,19 @@
+{
+  "block.sliceanddice.sprinkler": "洒水器",
+  "block.sliceanddice.slicer": "切割器",
+  "block.sliceanddice.wet_air": "湿润空气",
+  "block.sliceanddice.fertilizer": "液体肥料",
+  "fluid.sliceanddice.fertilizer": "液体肥料",
+  "item.sliceanddice.fertilizer_bucket": "液体肥料桶",
+  "sliceanddice.ponder.slicer.header": "使用切割器进行切割",
+  "sliceanddice.ponder.slicer.text_1": "用有效的工具右键点击",
+  "sliceanddice.ponder.slicer.text_2": "切割器也可以用于盆中操作",
+  "sliceanddice.tooltip.rotationDirection": "旋转方向",
+  "sliceanddice.gui.contraptions.wrong_direction": "看起来这个%s正在以_错误的方向_旋转。",
+  "sliceanddice.ponder.sprinkler/intro.header": "顶部喷灌",
+  "sliceanddice.ponder.sprinkler/intro.text_1": "将喷灌器安装于流体管道下方",
+  "sliceanddice.ponder.sprinkler/uses.header": "喷灌类型",
+  "sliceanddice.ponder.sprinkler/uses.text_1": "不同流体会对生物产生不同影响",
+  "sliceanddice.recipe.assembly.slicer": "使用切片机切割",
+  "sliceanddice.recipe.slicer": "切片"
+}

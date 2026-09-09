@@ -1,0 +1,47 @@
+[
+  {
+    "name": "amendments_zh_cn",
+    "desc": "supplementaries-1.21.1-3.9.5-neoforge.jar 硬编码文本汉化",
+    "authors": "Auto-Translation-Tool",
+    "mods": "supplementaries-1.21.1-3.9.5-neoforge.jar",
+    "dynamic": false,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "net.mehvahdjukaar.supplementaries.client.renderers.platform.PicklePlayer"
+    ],
+    "pairs": [
+      {
+        "key": "I am Jarman",
+        "value": "我是 Jarman"
+      },
+      {
+        "key": "I turned myself into a pickle!",
+        "value": "我把自己腌成了泡菜！"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mehvahdjukaar.supplementaries.common.utils.VibeChecker"
+    ],
+    "pairs": [
+      {
+        "key": "Supplementaries detected a possible crash caused by another mod. Check the logs.",
+        "value": "Supplementaries 检测到由其他模组导致的潜在崩溃。请检查日志。"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.mehvahdjukaar.amendments.common.tile.ToolHookBlockTile"
+    ],
+    "pairs": [
+      {
+        "key": "tool hook",
+        "value": "工具钩"
+      }
+    ]
+  }
+]

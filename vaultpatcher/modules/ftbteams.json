@@ -1,0 +1,25 @@
+[
+  {
+    "name": "ftbteams_zh_cn",
+    "desc": "ftb-teams-neoforge-2101.1.11.jar 硬编码文本汉化",
+    "authors": "Auto-Translation-Tool",
+    "mods": "ftb-teams-neoforge-2101.1.11.jar",
+    "dynamic": false,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "dev.ftb.mods.ftbteams.data.PartyTeam"
+    ],
+    "pairs": [
+      {
+        "key": "Already owner!",
+        "value": "已是所有者！"
+      },
+      {
+        "key": "Allies:",
+        "value": "盟友："
+      }
+    ]
+  }
+]

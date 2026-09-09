@@ -1,0 +1,109 @@
+[
+  {
+    "name": "create_wrapped_zh_cn",
+    "desc": "create_wrapped-1.0.3-neoforge-1.21.1.jar 硬编码文本汉化",
+    "authors": "Auto-Translation-Tool",
+    "mods": "create_wrapped-1.0.3-neoforge-1.21.1.jar",
+    "dynamic": false,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "create_wrapped.block.entity.WrappingStationBlockEntity"
+    ],
+    "pairs": [
+      {
+        "key": "Wrapping Station",
+        "value": "包装站"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "create_wrapped.block.WrappingStationBlock$1"
+    ],
+    "pairs": [
+      {
+        "key": "Wrapping Station",
+        "value": "包装站"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "create_wrapped.item.BluePresentItem$1"
+    ],
+    "pairs": [
+      {
+        "key": "Blue Present",
+        "value": "蓝色礼物"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "create_wrapped.item.CyanPresentItem$1"
+    ],
+    "pairs": [
+      {
+        "key": "Cyan Present",
+        "value": "青色礼物"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "create_wrapped.item.GreenPresentItem$1"
+    ],
+    "pairs": [
+      {
+        "key": "Green Present",
+        "value": "绿色礼物"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "create_wrapped.item.MagentaPresentItem$1"
+    ],
+    "pairs": [
+      {
+        "key": "Magenta Present",
+        "value": "品红色礼物"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "create_wrapped.item.PurplePresentItem$1"
+    ],
+    "pairs": [
+      {
+        "key": "Purple Present",
+        "value": "紫色礼物"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "create_wrapped.item.RedPresentItem$1"
+    ],
+    "pairs": [
+      {
+        "key": "Red Present",
+        "value": "红色礼物"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "create_wrapped.item.YellowPresentItem$1"
+    ],
+    "pairs": [
+      {
+        "key": "Yellow Present",
+        "value": "黄色礼物"
+      }
+    ]
+  }
+]

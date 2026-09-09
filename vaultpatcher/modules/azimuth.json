@@ -1,0 +1,25 @@
+[
+  {
+    "name": "azimuth_zh_cn",
+    "desc": "azimuth-1.4.7.jar 硬编码文本汉化",
+    "authors": "Auto-Translation-Tool",
+    "mods": "azimuth-1.4.7.jar",
+    "dynamic": false,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "com.cake.azimuth.foundation.config.AzimuthConfigScreen"
+    ],
+    "pairs": [
+      {
+        "key": "Clear Watched Ponders",
+        "value": "清除已观看的沉思"
+      },
+      {
+        "key": "Resets all ponder scenes to unwatched, restoring ✦ NEW badges",
+        "value": "将所有沉思场景重置为未观看状态，恢复 ✦ 新徽章"
+      }
+    ]
+  }
+]

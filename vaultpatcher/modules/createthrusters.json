@@ -1,0 +1,580 @@
+[
+  {
+    "name": "createthrusters_zh_cn",
+    "desc": "createthrusters-bundled-V1.1.3.jar 硬编码文本汉化",
+    "authors": "Auto-Translation-Tool",
+    "mods": "createthrusters-bundled-V1.1.3.jar",
+    "dynamic": false,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "com.rieno.gadgetsandgizmos.compat.computercraft.ExternalMachinePeripheral"
+    ],
+    "pairs": [
+      {
+        "key": "No help found for method: ",
+        "value": "未找到方法的帮助信息： "
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "com.rieno.gadgetsandgizmos.compat.create.BiDirectionalGearboxDisplaySource"
+    ],
+    "pairs": [
+      {
+        "key": "Mode: ",
+        "value": "模式： "
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "com.rieno.gadgetsandgizmos.compat.create.GyroscopeLinkDisplaySource"
+    ],
+    "pairs": [
+      {
+        "key": "Linked | No live data",
+        "value": "已连接 | 无实时数据"
+      },
+      {
+        "key": "Waiting for live data",
+        "value": "等待实时数据"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "com.rieno.gadgetsandgizmos.content.BiDirectionalGearboxBlock"
+    ],
+    "pairs": [
+      {
+        "key": "Gearbox Kinetic Mode | Passthrough Split",
+        "value": "变速箱动能模式 | 直通分流"
+      },
+      {
+        "key": "Gearbox Servo Mode | N/S/E/W: ",
+        "value": "变速箱伺服模式 | N/S/E/W: "
+      },
+      {
+        "key": "Gearbox Kinetic Mode | Virtual lanes: N/S=",
+        "value": "变速箱动能模式 | 虚拟通道：N/S="
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "com.rieno.gadgetsandgizmos.content.CTTooltipHelper"
+    ],
+    "pairs": [
+      {
+        "key": "Not Linked",
+        "value": "未连接"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "com.rieno.gadgetsandgizmos.content.ContraptionNetworkLinkerItem"
+    ],
+    "pairs": [
+      {
+        "key": "This diagram is not attached to a contraption",
+        "value": "该图纸未绑定到任何机械装置"
+      },
+      {
+        "key": "Contraption Diagram",
+        "value": "动态结构图解"
+      },
+      {
+        "key": "Contraption Diagram - ",
+        "value": "机械装置图纸 - "
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "com.rieno.gadgetsandgizmos.content.EntityLauncherItem"
+    ],
+    "pairs": [
+      {
+        "key": "Entity Launcher Power: ",
+        "value": "实体发射器能量： "
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "com.rieno.gadgetsandgizmos.neoforge.client.AileronBearingScreen"
+    ],
+    "pairs": [
+      {
+        "key": "Primary",
+        "value": "主要"
+      },
+      {
+        "key": "Secondary",
+        "value": "次要"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "com.rieno.gadgetsandgizmos.neoforge.client.AnalogueContraptionControllerConfigScreen"
+    ],
+    "pairs": [
+      {
+        "key": "Linker",
+        "value": "连接器"
+      },
+      {
+        "key": "Inputs",
+        "value": "输入"
+      },
+      {
+        "key": "Bound Inputs",
+        "value": "已绑定输入"
+      },
+      {
+        "key": "No detected inputs",
+        "value": "未检测到输入"
+      },
+      {
+        "key": "No bound inputs",
+        "value": "无已绑定输入"
+      },
+      {
+        "key": "Reset",
+        "value": "重置"
+      },
+      {
+        "key": "Done",
+        "value": "完成"
+      },
+      {
+        "key": "Rename Input",
+        "value": "重命名输入"
+      },
+      {
+        "key": "Name",
+        "value": "名称"
+      },
+      {
+        "key": "Rename Binding",
+        "value": "重命名绑定"
+      },
+      {
+        "key": "Press",
+        "value": "按下"
+      },
+      {
+        "key": "None",
+        "value": "无"
+      },
+      {
+        "key": "Custom",
+        "value": "自定义"
+      },
+      {
+        "key": "Input",
+        "value": "输入"
+      },
+      {
+        "key": "Target",
+        "value": "目标"
+      },
+      {
+        "key": "Link",
+        "value": "链接"
+      },
+      {
+        "key": "Empty",
+        "value": "空"
+      },
+      {
+        "key": "Unbound",
+        "value": "未绑定"
+      },
+      {
+        "key": " - CCW",
+        "value": " — 逆时针"
+      },
+      {
+        "key": " - Forward",
+        "value": " — 前进"
+      },
+      {
+        "key": " - Backward",
+        "value": " — 后退"
+      },
+      {
+        "key": " - Left",
+        "value": " — 左"
+      },
+      {
+        "key": " - Right",
+        "value": " — 右"
+      },
+      {
+        "key": " - Pitch +",
+        "value": " — 俯仰+ "
+      },
+      {
+        "key": " - Pitch -",
+        "value": " — 俯仰− "
+      },
+      {
+        "key": " - Grip",
+        "value": " — 抓取"
+      },
+      {
+        "key": " - Roll +",
+        "value": " — 滚转+"
+      },
+      {
+        "key": " - Brake",
+        "value": " — 刹车"
+      },
+      {
+        "key": "Bound to: ",
+        "value": "绑定至："
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "com.rieno.gadgetsandgizmos.neoforge.client.AnalogueContraptionControllerConfigScreen$ControllerModifierOverlay"
+    ],
+    "pairs": [
+      {
+        "key": "Configure Binding",
+        "value": "配置绑定"
+      },
+      {
+        "key": "Config",
+        "value": "配置"
+      },
+      {
+        "key": "Routing",
+        "value": "路由"
+      },
+      {
+        "key": "Discovery",
+        "value": "发现"
+      },
+      {
+        "key": "Clear",
+        "value": "清除"
+      },
+      {
+        "key": "Back",
+        "value": "返回"
+      },
+      {
+        "key": "Save",
+        "value": "保存"
+      },
+      {
+        "key": "Filters",
+        "value": "过滤器"
+      },
+      {
+        "key": "Input",
+        "value": "输入"
+      },
+      {
+        "key": "Step Up Key",
+        "value": "升档按键"
+      },
+      {
+        "key": "Preset",
+        "value": "预设"
+      },
+      {
+        "key": "Response",
+        "value": "响应"
+      },
+      {
+        "key": "Step Down Key",
+        "value": "降档按键"
+      },
+      {
+        "key": "Attack",
+        "value": "攻击"
+      },
+      {
+        "key": "Decay",
+        "value": "衰变"
+      },
+      {
+        "key": "Step",
+        "value": "步进"
+      },
+      {
+        "key": "Step Down",
+        "value": "降档"
+      },
+      {
+        "key": "Deadzone",
+        "value": "死区"
+      },
+      {
+        "key": "Smooth",
+        "value": "平滑"
+      },
+      {
+        "key": "Press any key to bind this entry.",
+        "value": "按任意键以绑定此项。"
+      },
+      {
+        "key": "Type",
+        "value": "类型"
+      },
+      {
+        "key": "Local",
+        "value": "本地"
+      },
+      {
+        "key": "Output Link",
+        "value": "输出连接"
+      },
+      {
+        "key": "Input Link",
+        "value": "输入连接"
+      },
+      {
+        "key": "Unbind",
+        "value": "解除绑定"
+      },
+      {
+        "key": "Change",
+        "value": "更改"
+      },
+      {
+        "key": "Bind discovered outputs.",
+        "value": "绑定已发现的输出。"
+      },
+      {
+        "key": "Scan",
+        "value": "扫描"
+      },
+      {
+        "key": "Bind",
+        "value": "绑定"
+      },
+      {
+        "key": "Outputs",
+        "value": "输出"
+      },
+      {
+        "key": "Select an output and click Bind to change target.",
+        "value": "请选择一个输出项，点击“绑定”以更改目标。"
+      },
+      {
+        "key": "None",
+        "value": "无"
+      },
+      {
+        "key": "Custom",
+        "value": "自定义"
+      },
+      {
+        "key": "Channel",
+        "value": "通道"
+      },
+      {
+        "key": "Unbound",
+        "value": "未绑定"
+      },
+      {
+        "key": "Target: ",
+        "value": "目标: "
+      },
+      {
+        "key": "Input Link: ",
+        "value": "输入连接："
+      },
+      {
+        "key": "Pre-Linked",
+        "value": "预连接"
+      },
+      {
+        "key": "Bound",
+        "value": "已绑定"
+      },
+      {
+        "key": "Discovered",
+        "value": "已发现"
+      },
+      {
+        "key": "Step Up",
+        "value": "升档"
+      },
+      {
+        "key": "Output Link: ",
+        "value": "输出连接："
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "com.rieno.gadgetsandgizmos.neoforge.client.AnalogueContraptionControllerConfigScreen$ControllerKeyEditor"
+    ],
+    "pairs": [
+      {
+        "key": "Select a binding, then configure its key, routing, or direct target.",
+        "value": "请选择一个绑定项，然后配置其按键、路由或直接目标。"
+      },
+      {
+        "key": "Edit",
+        "value": "编辑"
+      },
+      {
+        "key": "Clear",
+        "value": "清除"
+      },
+      {
+        "key": "— Custom Keys",
+        "value": "— 自定义按键"
+      },
+      {
+        "key": "Reset",
+        "value": "重置"
+      },
+      {
+        "key": "Back",
+        "value": "返回"
+      },
+      {
+        "key": "Links (TX)",
+        "value": "连接（发送端）"
+      },
+      {
+        "key": "Bind target: ",
+        "value": "绑定目标： "
+      },
+      {
+        "key": "Unbound",
+        "value": "未绑定"
+      },
+      {
+        "key": "Custom ",
+        "value": "自定义 "
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "com.rieno.gadgetsandgizmos.neoforge.client.AnalogueContraptionControllerConfigScreen$EditableCustomKeyEntry"
+    ],
+    "pairs": [
+      {
+        "key": "Custom",
+        "value": "自定义"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "com.rieno.gadgetsandgizmos.neoforge.client.AnalogueJoystickHudOverlay"
+    ],
+    "pairs": [
+      {
+        "key": "Analogue Joystick",
+        "value": "模拟摇杆"
+      },
+      {
+        "key": "Live Input",
+        "value": "实时输入"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "com.rieno.gadgetsandgizmos.neoforge.client.ArmorStandPosePresetStore"
+    ],
+    "pairs": [
+      {
+        "key": "Custom Pose",
+        "value": "自定义姿势"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "com.rieno.gadgetsandgizmos.neoforge.client.GyroscopeLinkConfigScreen"
+    ],
+    "pairs": [
+      {
+        "key": "Minimum angle",
+        "value": "最小角度"
+      },
+      {
+        "key": "Maximum angle",
+        "value": "最大角度"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "com.rieno.gadgetsandgizmos.neoforge.client.NavigationTableScreen"
+    ],
+    "pairs": [
+      {
+        "key": "Slot ",
+        "value": "插槽 "
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "com.rieno.gadgetsandgizmos.neoforge.client.ThrusterConfigScreen"
+    ],
+    "pairs": [
+      {
+        "key": "FE Buffer",
+        "value": "能量缓存"
+      },
+      {
+        "key": "Auto",
+        "value": "自动"
+      },
+      {
+        "key": "Redstone",
+        "value": "红石"
+      },
+      {
+        "key": "Computer",
+        "value": "电脑"
+      },
+      {
+        "key": "Thrust Minimum: ",
+        "value": "推力下限： "
+      },
+      {
+        "key": "Thrust Maximum: ",
+        "value": "推力上限： "
+      },
+      {
+        "key": "Beam Opacity",
+        "value": "光束不透明度"
+      },
+      {
+        "key": "Plume Blend",
+        "value": "羽流混合"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "com.rieno.gadgetsandgizmos.registry.CTCreativeTabs"
+    ],
+    "pairs": [
+      {
+        "key": "Special Thanks",
+        "value": "特别致谢"
+      }
+    ]
+  }
+]

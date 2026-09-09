@@ -1,0 +1,32 @@
+[
+  {
+    "name": "create_winery_zh_cn",
+    "desc": "create_winery-2.0.2-neoforge-1.21.1.jar 硬编码文本汉化",
+    "authors": "Auto-Translation-Tool",
+    "mods": "create_winery-2.0.2-neoforge-1.21.1.jar",
+    "dynamic": false,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "create_winery.jei_recipes.MaturingBlendRecipeCategory"
+    ],
+    "pairs": [
+      {
+        "key": "Maturing (Blend)",
+        "value": "成熟中（混合）"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "create_winery.block.WineCellarBlock$1"
+    ],
+    "pairs": [
+      {
+        "key": "Wine Cellar",
+        "value": "酒窖"
+      }
+    ]
+  }
+]

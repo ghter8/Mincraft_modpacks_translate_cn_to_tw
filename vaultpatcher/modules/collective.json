@@ -1,0 +1,43 @@
+[
+  {
+    "name": "collective_zh_cn",
+    "desc": "collective-1.21.1-8.39.jar 硬编码文本汉化",
+    "authors": "Auto-Translation-Tool",
+    "mods": "collective-1.21.1-8.39.jar",
+    "dynamic": false,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "com.natamus.collective_common_fabric.translations.TranslationPack"
+    ],
+    "pairs": [
+      {
+        "key": "Serilum Mod Translations",
+        "value": "Serilum 模组翻译"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "com.natamus.collective_common_forge.translations.TranslationPack"
+    ],
+    "pairs": [
+      {
+        "key": "Serilum Mod Translations",
+        "value": "Serilum 模组翻译"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "com.natamus.collective_common_neoforge.translations.TranslationPack"
+    ],
+    "pairs": [
+      {
+        "key": "Serilum Mod Translations",
+        "value": "Serilum 模组翻译"
+      }
+    ]
+  }
+]

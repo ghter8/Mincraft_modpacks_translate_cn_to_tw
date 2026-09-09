@@ -1,0 +1,47 @@
+[
+  {
+    "name": "zeta_zh_cn",
+    "desc": "Quark-4.1-482.jar 硬编码文本汉化",
+    "authors": "Auto-Translation-Tool",
+    "mods": "Quark-4.1-482.jar",
+    "dynamic": false,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "org.violetmoon.quark.content.tools.item.SeedPouchItem"
+    ],
+    "pairs": [
+      {
+        "key": "The inventory you are trying to insert into is full...",
+        "value": "您尝试插入物品的容器已满……"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "org.violetmoon.quark.addons.oddities.block.MagnetBlock"
+    ],
+    "pairs": [
+      {
+        "key": "haha yes",
+        "value": "哈哈 是的"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "org.violetmoon.quark.base.Quark"
+    ],
+    "pairs": [
+      {
+        "key": "Quark Programmer Art",
+        "value": "夸克程序员艺术"
+      },
+      {
+        "key": "Quark has detected you are likely using a 1.20.1 config file. We recommend you do not do this in 1.21.1 as the format has changed. We recommend you delete your old config and then re-create it with the in-game config menu to prevent issues.",
+        "value": "夸克检测到你可能正在使用 1.20.1 版本的配置文件。我们建议你在 1.21.1 版本中不要这样做，因为格式已发生更改。我们建议你删除旧的配置文件，然后通过游戏内配置菜单重新创建，以防止出现问题。"
+      }
+    ]
+  }
+]

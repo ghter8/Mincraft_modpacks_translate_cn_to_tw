@@ -1,0 +1,16 @@
+{
+  "pack": {
+    "pack_format": 34,
+    "description": "BBSMC汉化包\n部分翻译来自 CFPA 社区翻译",
+    "supported_formats": [
+      34
+    ]
+  },
+  "language": {
+    "zh_cn": {
+      "name": "Chinese (Simplified)",
+      "region": "China",
+      "bidirectional": false
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "itemGroup.create_chocolate_fountain.base": "巧克力喷泉",
+  "block.create_chocolate_fountain.chocolate_fountain": "巧克力喷泉",
+  "create_chocolate_fountain.ponder.chocolate_fountain.header": "设置巧克力喷泉",
+  "create_chocolate_fountain.ponder.chocolate_fountain.text_1": "巧克力喷泉可从下方接收巧克力",
+  "create_chocolate_fountain.ponder.chocolate_fountain.text_2": "红石信号会关闭喷泉",
+  "create_chocolate_fountain.ponder.chocolate_fountain_range.header": "使用巧克力喷泉",
+  "create_chocolate_fountain.ponder.chocolate_fountain_range.text_1": "巧克力喷泉的默认作用范围为10格",
+  "create_chocolate_fountain.ponder.chocolate_fountain_range.text_2": "在此范围内的玩家将自动被喂食巧克力",
+  "create_chocolate_fountain.ponder.chocolate_fountain_bees.header": "用蜂蜜安抚蜜蜂",
+  "create_chocolate_fountain.ponder.chocolate_fountain_bees.text_1": "巧克力喷泉同样支持蜂蜜",
+  "create_chocolate_fountain.ponder.chocolate_fountain_bees.text_2": "蜜蜂在巧克力喷泉附近不会发怒",
+  "create_chocolate_fountain.ponder.chocolate_fountain_bees.text_3": "已处于愤怒状态的蜜蜂进入喷泉作用范围后将被安抚"
+}

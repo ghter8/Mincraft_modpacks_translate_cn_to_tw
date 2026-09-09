@@ -1,0 +1,60 @@
+[
+  {
+    "name": "powergrid_zh_cn",
+    "desc": "powergrid-mc1.21.1-0.6.1.jar 硬编码文本汉化",
+    "authors": "Auto-Translation-Tool",
+    "mods": "powergrid-mc1.21.1-0.6.1.jar",
+    "dynamic": false,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "org.patryk3211.powergrid.electricity.sim.DebugItem"
+    ],
+    "pairs": [
+      {
+        "key": "Server:",
+        "value": "服务器："
+      },
+      {
+        "key": "Client:",
+        "value": "客户端："
+      },
+      {
+        "key": "Component wires:",
+        "value": "组件连线："
+      },
+      {
+        "key": "Endpoints:",
+        "value": "端点："
+      },
+      {
+        "key": "Wires:",
+        "value": "线缆："
+      },
+      {
+        "key": "Electrical Power: ",
+        "value": "电力： "
+      },
+      {
+        "key": "Mechanical Power: ",
+        "value": "机械能： "
+      },
+      {
+        "key": "Field Strength: ",
+        "value": "场强： "
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "org.patryk3211.powergrid.kinetics.punchcard.PunchCardItem"
+    ],
+    "pairs": [
+      {
+        "key": "Punch Card",
+        "value": "打孔卡（未打孔）"
+      }
+    ]
+  }
+]

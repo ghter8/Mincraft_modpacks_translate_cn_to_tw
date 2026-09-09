@@ -1,0 +1,74 @@
+[
+  {
+    "name": "ftblibrary_zh_cn",
+    "desc": "ftb-library-neoforge-2101.1.35.jar 硬编码文本汉化",
+    "authors": "Auto-Translation-Tool",
+    "mods": "ftb-library-neoforge-2101.1.35.jar",
+    "dynamic": false,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "dev.ftb.mods.ftblibrary.FTBLibrary"
+    ],
+    "pairs": [
+      {
+        "key": "Hello from FTB Library!",
+        "value": "来自 FTB Library 的问候！"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "dev.ftb.mods.ftblibrary.nbtedit.NBTEditorScreen$TopLeftPanel"
+    ],
+    "pairs": [
+      {
+        "key": "New name",
+        "value": "新名称"
+      },
+      {
+        "key": "Compound",
+        "value": "复合"
+      },
+      {
+        "key": "List",
+        "value": "列表"
+      },
+      {
+        "key": "String",
+        "value": "字符串"
+      },
+      {
+        "key": "Byte Array",
+        "value": "字节数组"
+      },
+      {
+        "key": "Int Array",
+        "value": "整型数组"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "dev.ftb.mods.ftblibrary.ui.ColorSelectorPanel"
+    ],
+    "pairs": [
+      {
+        "key": "⇧ + Enter",
+        "value": "⇧ + 回车"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "dev.ftb.mods.ftblibrary.ui.misc.AbstractThreePanelScreen$BottomPanel"
+    ],
+    "pairs": [
+      {
+        "key": "⇧ + Enter",
+        "value": "⇧ + 回车"
+      }
+    ]
+  }
+]

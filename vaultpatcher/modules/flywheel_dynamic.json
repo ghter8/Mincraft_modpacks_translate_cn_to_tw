@@ -1,0 +1,21 @@
+[
+  {
+    "name": "flywheel_dynamic_zh_cn",
+    "desc": "sable-neoforge-1.21.1-2.0.5.jar 硬编码文本汉化（动态替换）",
+    "authors": "Auto-Translation-Tool",
+    "mods": "sable-neoforge-1.21.1-2.0.5.jar",
+    "dynamic": true,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "dev.ryanhcode.sable.debug.GizmoScreen"
+    ],
+    "pairs": [
+      {
+        "key": "Gizmo Mode",
+        "value": "小装置模式"
+      }
+    ]
+  }
+]

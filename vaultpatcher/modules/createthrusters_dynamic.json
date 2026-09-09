@@ -1,0 +1,468 @@
+[
+  {
+    "name": "createthrusters_dynamic_zh_cn",
+    "desc": "createthrusters-bundled-V1.1.3.jar 硬编码文本汉化（动态替换）",
+    "authors": "Auto-Translation-Tool",
+    "mods": "createthrusters-bundled-V1.1.3.jar",
+    "dynamic": true,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "com.rieno.gadgetsandgizmos.neoforge.client.AdvancedContraptionControllerScreen"
+    ],
+    "pairs": [
+      {
+        "key": "Search nodes",
+        "value": "搜索节点"
+      },
+      {
+        "key": "Search blocks and items",
+        "value": "搜索方块与物品"
+      },
+      {
+        "key": "Search nodes...",
+        "value": "搜索节点..."
+      },
+      {
+        "key": "Node value",
+        "value": "节点值"
+      },
+      {
+        "key": "Widget text",
+        "value": "部件文本"
+      },
+      {
+        "key": "Widget texture",
+        "value": "部件贴图"
+      },
+      {
+        "key": "Widget width",
+        "value": "部件宽度"
+      },
+      {
+        "key": "Widget height",
+        "value": "部件高度"
+      },
+      {
+        "key": "Widget border width",
+        "value": "部件边框宽度"
+      },
+      {
+        "key": "Shared graph name",
+        "value": "共享图表名称"
+      },
+      {
+        "key": "Graph name",
+        "value": "图表名称"
+      },
+      {
+        "key": "Clear Slots",
+        "value": "清空插槽"
+      },
+      {
+        "key": "Open Designer",
+        "value": "打开设计器"
+      },
+      {
+        "key": "Overwrite",
+        "value": "覆盖"
+      },
+      {
+        "key": "Increment",
+        "value": "增加"
+      },
+      {
+        "key": "Cancel",
+        "value": "取消"
+      },
+      {
+        "key": "Remove",
+        "value": "移除"
+      },
+      {
+        "key": "Close",
+        "value": "关闭"
+      },
+      {
+        "key": "Lower",
+        "value": "下降"
+      },
+      {
+        "key": "Raise",
+        "value": "提升"
+      },
+      {
+        "key": "EMI/JEI: On",
+        "value": "EMI/JEI：开启"
+      },
+      {
+        "key": "Comment",
+        "value": "评论"
+      },
+      {
+        "key": "Block Browser",
+        "value": "方块浏览器"
+      },
+      {
+        "key": "Linked Goggles",
+        "value": "已关联的工程师护目镜"
+      },
+      {
+        "key": "Add Node",
+        "value": "添加节点"
+      },
+      {
+        "key": "Value 1",
+        "value": "数值 1"
+      },
+      {
+        "key": "Advanced HUD",
+        "value": "高级HUD"
+      },
+      {
+        "key": "Value ",
+        "value": "数值 "
+      },
+      {
+        "key": "Uploading...",
+        "value": "正在上传..."
+      },
+      {
+        "key": "Uploaded (none)",
+        "value": "已上传（无）"
+      },
+      {
+        "key": "Unset",
+        "value": "取消设置"
+      },
+      {
+        "key": " - right-click to rename",
+        "value": " - 右键点击以重命名"
+      },
+      {
+        "key": "not pulsed",
+        "value": "未触发脉冲"
+      },
+      {
+        "key": "Field 1",
+        "value": "字段 1"
+      },
+      {
+        "key": "Field ",
+        "value": "字段 "
+      },
+      {
+        "key": "Upload",
+        "value": "上传"
+      },
+      {
+        "key": "Uploaded",
+        "value": "已上传"
+      },
+      {
+        "key": "Select a port",
+        "value": "选择一个端口"
+      },
+      {
+        "key": "Revision ",
+        "value": "版本 "
+      },
+      {
+        "key": "Value [",
+        "value": "数值 ["
+      },
+      {
+        "key": "Variable",
+        "value": "变量"
+      },
+      {
+        "key": "Frequency",
+        "value": "频率"
+      },
+      {
+        "key": "Inventory",
+        "value": "物品栏"
+      },
+      {
+        "key": "Inspector",
+        "value": "检查器"
+      },
+      {
+        "key": "Comment Group",
+        "value": "注释组"
+      },
+      {
+        "key": "Title",
+        "value": "标题"
+      },
+      {
+        "key": "Drag the header to move.",
+        "value": "拖动标题栏以移动。"
+      },
+      {
+        "key": "Drag the lower-right handle to resize.",
+        "value": "拖动右下角控制柄以调整大小。"
+      },
+      {
+        "key": "Input name: ",
+        "value": "输入名称： "
+      },
+      {
+        "key": "Right-click an input to rename; Shift-right-click removes it.",
+        "value": "右键点击输入项可重命名；按住Shift键并右键点击可将其移除。"
+      },
+      {
+        "key": "Custom Curve",
+        "value": "自定义曲线"
+      },
+      {
+        "key": "Ctrl-click adds a point.",
+        "value": "Ctrl+单击可添加一个点。"
+      },
+      {
+        "key": "Right-click deletes a point.",
+        "value": "右键单击可删除一个点。"
+      },
+      {
+        "key": "Drag any selected node to move all.",
+        "value": "拖动任一已选节点即可移动全部节点。"
+      },
+      {
+        "key": "Right-click for group actions.",
+        "value": "右键单击以执行组操作。"
+      },
+      {
+        "key": "Select a node to edit it.",
+        "value": "选择一个节点以编辑它。"
+      },
+      {
+        "key": "Configured Key Bindings",
+        "value": "已配置的按键绑定"
+      },
+      {
+        "key": "Available Targets",
+        "value": "可用目标"
+      },
+      {
+        "key": "No variables",
+        "value": "无变量"
+      },
+      {
+        "key": "Contraption Network Linker",
+        "value": "机械装置网络链接器"
+      },
+      {
+        "key": "Drag this title bar to move",
+        "value": "拖动此标题栏以移动"
+      },
+      {
+        "key": "Bind Goggles",
+        "value": "绑定护目镜"
+      },
+      {
+        "key": "Player Inventory",
+        "value": "玩家物品栏"
+      },
+      {
+        "key": "Redstone Link Frequency",
+        "value": "无线红石信号终端频率"
+      },
+      {
+        "key": "Blue",
+        "value": "蓝色"
+      },
+      {
+        "key": "Drag items from EMI/JEI or click inventory items.",
+        "value": "从EMI/JEI拖拽物品，或点击物品栏中的物品。"
+      },
+      {
+        "key": "Search: ",
+        "value": "搜索： "
+      },
+      {
+        "key": "No matches",
+        "value": "未找到匹配项"
+      },
+      {
+        "key": "Share",
+        "value": "共享"
+      },
+      {
+        "key": "No shared graphs",
+        "value": "无共享图表"
+      },
+      {
+        "key": "Advanced HUD Designer",
+        "value": "高级HUD设计器"
+      },
+      {
+        "key": "Canvas",
+        "value": "画布"
+      },
+      {
+        "key": "Selected Element",
+        "value": "已选元素"
+      },
+      {
+        "key": "No widget selected.",
+        "value": "未选择部件。"
+      },
+      {
+        "key": "Type: ",
+        "value": "类型： "
+      },
+      {
+        "key": "Drag to move; corner to resize.",
+        "value": "拖动以移动；拖动角落以调整大小。"
+      },
+      {
+        "key": "Order: ",
+        "value": "顺序： "
+      },
+      {
+        "key": "Field type: ",
+        "value": "字段类型： "
+      },
+      {
+        "key": "Font size: ",
+        "value": "字体大小： "
+      },
+      {
+        "key": "Font style",
+        "value": "字体样式"
+      },
+      {
+        "key": "Border width",
+        "value": "边框宽度"
+      },
+      {
+        "key": "Border radius: ",
+        "value": "边界半径： "
+      },
+      {
+        "key": "Width / Height",
+        "value": "宽度 / 高度"
+      },
+      {
+        "key": "Port",
+        "value": "端口"
+      },
+      {
+        "key": "Texture / URL fallback",
+        "value": "纹理 / URL 备用方案"
+      },
+      {
+        "key": "Fallback is used for an empty port.",
+        "value": "当端口为空时使用回退。"
+      },
+      {
+        "key": "Text",
+        "value": "文本"
+      },
+      {
+        "key": "Refresh",
+        "value": "刷新"
+      },
+      {
+        "key": "Load Selected",
+        "value": "加载已选项目"
+      },
+      {
+        "key": "Texture",
+        "value": "纹理"
+      },
+      {
+        "key": "Validating graph...",
+        "value": "正在验证图表..."
+      },
+      {
+        "key": "Applying graph...",
+        "value": "正在应用图表..."
+      },
+      {
+        "key": "Reverting graph...",
+        "value": "正在还原图表..."
+      },
+      {
+        "key": "Graph Reverted",
+        "value": "图表已还原"
+      },
+      {
+        "key": "Add Field",
+        "value": "添加字段"
+      },
+      {
+        "key": "Add Input",
+        "value": "添加输入"
+      },
+      {
+        "key": "Restoring graph version...",
+        "value": "正在恢复图表版本..."
+      },
+      {
+        "key": "A linker is required",
+        "value": "必须指定连接器"
+      },
+      {
+        "key": "A graph name is required",
+        "value": "必须填写图表名称"
+      },
+      {
+        "key": "Select a shared graph",
+        "value": "选择一个共享图表"
+      },
+      {
+        "key": "Color",
+        "value": "颜色"
+      },
+      {
+        "key": "Value",
+        "value": "值"
+      },
+      {
+        "key": "Ticks",
+        "value": "刻"
+      },
+      {
+        "key": "Period",
+        "value": "周期"
+      },
+      {
+        "key": "Image",
+        "value": "图片"
+      },
+      {
+        "key": "Frequency A: ",
+        "value": "频率 A： "
+      },
+      {
+        "key": "Frequency B: ",
+        "value": "频率 B： "
+      },
+      {
+        "key": "\u0001 nodes selected",
+        "value": "已选择 \u0001 个节点"
+      },
+      {
+        "key": "pulsed \u0001 ticks ago",
+        "value": "脉冲信号于\u0001刻前发出"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "com.rieno.gadgetsandgizmos.neoforge.client.ControllerTextInputScreen"
+    ],
+    "pairs": [
+      {
+        "key": "Cancel",
+        "value": "取消"
+      },
+      {
+        "key": "Save",
+        "value": "保存"
+      }
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "reliable_recipes_zh_cn",
+    "desc": "reliable_recipes-neoforge-1.21.1-3.1.5.jar 硬编码文本汉化",
+    "authors": "Auto-Translation-Tool",
+    "mods": "reliable_recipes-neoforge-1.21.1-3.1.5.jar",
+    "dynamic": false,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "com.evandev.reliable_recipes.client.SharedToastOverlay"
+    ],
+    "pairs": [
+      {
+        "key": "Deleted",
+        "value": "已删除"
+      }
+    ]
+  }
+]

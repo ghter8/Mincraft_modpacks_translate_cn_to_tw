@@ -1,0 +1,21 @@
+[
+  {
+    "name": "cloth_config2_zh_cn",
+    "desc": "cloth-config-15.0.140-neoforge.jar 硬编码文本汉化",
+    "authors": "Auto-Translation-Tool",
+    "mods": "cloth-config-15.0.140-neoforge.jar",
+    "dynamic": false,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "me.shedaniel.clothconfig2.gui.entries.DropdownBoxEntry$DefaultSelectionTopCellElement"
+    ],
+    "pairs": [
+      {
+        "key": "Invalid Value!",
+        "value": "值无效！"
+      }
+    ]
+  }
+]

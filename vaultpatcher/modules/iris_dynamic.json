@@ -1,0 +1,56 @@
+[
+  {
+    "name": "iris_dynamic_zh_cn",
+    "desc": "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar 硬编码文本汉化（动态替换）",
+    "authors": "Auto-Translation-Tool",
+    "mods": "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+    "dynamic": true,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "net.irisshaders.iris.gui.debug.DebugLoadFailedGridScreen"
+    ],
+    "pairs": [
+      {
+        "key": "Reload pack",
+        "value": "重新加载光影包"
+      },
+      {
+        "key": "Copy error",
+        "value": "复制错误"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "net.irisshaders.iris.gui.screen.ShaderPackScreen"
+    ],
+    "pairs": [
+      {
+        "key": "New update available!",
+        "value": "发现新版本更新！"
+      },
+      {
+        "key": "Shader debug mode toggle",
+        "value": "着色器调试模式开关"
+      },
+      {
+        "key": "Unknown shader toggle",
+        "value": "未知着色器开关"
+      },
+      {
+        "key": "This allows unknown shaders to load in.",
+        "value": "允许加载未知着色器。"
+      },
+      {
+        "key": "Enable",
+        "value": "启用"
+      },
+      {
+        "key": "Disable",
+        "value": "禁用"
+      }
+    ]
+  }
+]

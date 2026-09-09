@@ -1,0 +1,28 @@
+{
+  "user_agreement": false,
+  "modpack": {
+    "name": "All of Create - Aeronautics-v2.5",
+    "version": null,
+    "minecraft_version": "1.21.1",
+    "loader_type": "neoforge-21.1.248"
+  },
+  "curseforge": {
+    "project_id": 1518930,
+    "file_id": 8761397,
+    "project_slug": "all-of-create-aeronautics"
+  },
+  "resource_pack_install": {
+    "auto_install_enabled": false,
+    "install_method": "resourcepacks",
+    "description": "传统资源包 (需手动启用)",
+    "force_loaded": []
+  },
+  "language_packs": [
+    "BBSMC汉化包.zip"
+  ],
+  "meta": {
+    "generated_at": "2026-08-30T02:04:47.226535",
+    "generator": "TranslateTool",
+    "generator_version": "1.0.0"
+  }
+}

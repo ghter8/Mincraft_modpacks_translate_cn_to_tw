@@ -1,0 +1,29 @@
+[
+  {
+    "name": "sablexaeromaps_zh_cn",
+    "desc": "sablexaeromaps-1.21.1-1.4.0.jar 硬编码文本汉化",
+    "authors": "Auto-Translation-Tool",
+    "mods": "sablexaeromaps-1.21.1-1.4.0.jar",
+    "dynamic": false,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "com.sablexaeromaps.UpdateCheck"
+    ],
+    "pairs": [
+      {
+        "key": "Get it on CurseForge",
+        "value": "在 CurseForge 上获取"
+      },
+      {
+        "key": "[Sable Sublevels on Xaero's Maps] ",
+        "value": "[Xaero地图上的沙盒层级] "
+      },
+      {
+        "key": " (you have ",
+        "value": " （你有 "
+      }
+    ]
+  }
+]

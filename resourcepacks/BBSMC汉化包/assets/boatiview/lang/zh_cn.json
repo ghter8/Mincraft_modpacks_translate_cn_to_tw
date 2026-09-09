@@ -1,0 +1,13 @@
+{
+  "boatiview.configuration.client": "边划边看（客户端）",
+  "boatiview.configuration.section.boatiview.client.toml": "客户端设置",
+  "boatiview.configuration.section.boatiview.client.toml.title": "客户端设置",
+  "boatiview.configuration.show_hands": "在移动的船中渲染手持物品",
+  "boatiview.configuration.show_hands.tooltip": "切换船移动时是否渲染手持物品",
+  "boatiview.configuration.title": "划船物品显示",
+  "boatiview.configuration.whitelisted_items": "在移动的船中渲染的物品",
+  "boatiview.configuration.whitelisted_items.tooltip": "将始终在手中显示的物品。在模组ID后添加字符“*”可包含该模组的所有物品，例如“modid:*”。若“*”前未指定模组ID，则包含所有物品，例如“*”",
+  "text.autoconfig.client.option.show_hands": "在移动的船中渲染手持物品",
+  "text.autoconfig.client.option.whitelisted_items": "在移动的船中渲染的物品",
+  "text.autoconfig.client.title": "划船物品显示"
+}

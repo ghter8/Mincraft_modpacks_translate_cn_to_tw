@@ -1,0 +1,93 @@
+[
+  {
+    "name": "createrailwaysnavigator_zh_cn",
+    "desc": "createrailwaysnavigator-neoforge-1.21.1-beta-0.9.1-C6.jar 硬编码文本汉化",
+    "authors": "Auto-Translation-Tool",
+    "mods": "createrailwaysnavigator-neoforge-1.21.1-beta-0.9.1-C6.jar",
+    "dynamic": false,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "de.mrjulsen.crn.block.display.properties.StaticTextDisplaySettings"
+    ],
+    "pairs": [
+      {
+        "key": "Hello World",
+        "value": "你好，世界"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "de.mrjulsen.crn.client.gui.overlay.RouteDetailsOverlay"
+    ],
+    "pairs": [
+      {
+        "key": "Settings",
+        "value": "设置"
+      },
+      {
+        "key": "Show route details",
+        "value": "显示路线详情"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "de.mrjulsen.crn.client.gui.windows.GlobalSettingsWindow"
+    ],
+    "pairs": [
+      {
+        "key": "Name",
+        "value": "名称"
+      },
+      {
+        "key": "Action",
+        "value": "动作"
+      },
+      {
+        "key": "Permission",
+        "value": "权限"
+      },
+      {
+        "key": "Color",
+        "value": "颜色"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "de.mrjulsen.crn.client.gui.windows.StationTagSettingsWindow"
+    ],
+    "pairs": [
+      {
+        "key": "Server",
+        "value": "服务器"
+      },
+      {
+        "key": "Name",
+        "value": "名称"
+      },
+      {
+        "key": "Platform",
+        "value": "平台"
+      },
+      {
+        "key": "Action",
+        "value": "动作"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "de.mrjulsen.crn.client.lang.ModTranslatableComponent"
+    ],
+    "pairs": [
+      {
+        "key": ", fallback='",
+        "value": "，回退='"
+      }
+    ]
+  }
+]

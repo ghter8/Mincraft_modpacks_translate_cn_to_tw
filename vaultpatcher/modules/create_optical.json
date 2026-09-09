@@ -1,0 +1,49 @@
+[
+  {
+    "name": "create_optical_zh_cn",
+    "desc": "create_optical-0.4.2.jar 硬编码文本汉化",
+    "authors": "Auto-Translation-Tool",
+    "mods": "create_optical-0.4.2.jar",
+    "dynamic": false,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "net.lpcamors.optical.ponder.COPonderScenes"
+    ],
+    "pairs": [
+      {
+        "key": "Optical :)",
+        "value": "光学：)"
+      },
+      {
+        "key": "Radio Waves,",
+        "value": "无线电波，"
+      },
+      {
+        "key": "Visible Light,",
+        "value": "可见光，"
+      },
+      {
+        "key": "and Gamma Ray",
+        "value": "和伽马射线"
+      },
+      {
+        "key": "Intensity is the sum of the beams intensities,",
+        "value": "强度是光束强度的总和，"
+      },
+      {
+        "key": "Beam Type and speed direction is the same of the higher beam,",
+        "value": "光束类型和速度方向与高阶光束相同，"
+      },
+      {
+        "key": "Visibility depends if there's at least one visible beam composing it,",
+        "value": "可见性取决于是否至少有一条可见光束组成它，"
+      },
+      {
+        "key": "Polarization follow the composing system.",
+        "value": "偏振遵循组成系统。"
+      }
+    ]
+  }
+]

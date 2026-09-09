@@ -1,0 +1,128 @@
+[
+  {
+    "name": "stockmarket_zh_cn",
+    "desc": "create-stockmarket-1.1.0+mc1.21.1.jar 硬编码文本汉化",
+    "authors": "Auto-Translation-Tool",
+    "mods": "create-stockmarket-1.1.0+mc1.21.1.jar",
+    "dynamic": false,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "by.deokma.stockmarket.neoforge.client.MarketMonitorScreen"
+    ],
+    "pairs": [
+      {
+        "key": "Search...",
+        "value": "搜索..."
+      },
+      {
+        "key": "§8Create TableCloth Shop",
+        "value": "§8创建桌布商店"
+      },
+      {
+        "key": "§7Avg Price: §f",
+        "value": "§7平均价格：§f"
+      },
+      {
+        "key": "§7Min Price: §f",
+        "value": "§7最低价格：§f"
+      },
+      {
+        "key": "§724h Change: ",
+        "value": "§724 小时变动： "
+      },
+      {
+        "key": "§7Volume: §f",
+        "value": "§7成交量：§f"
+      },
+      {
+        "key": "§7Trend: ",
+        "value": "§7趋势： "
+      },
+      {
+        "key": "§7Payment: §f",
+        "value": "§7付款方式：§f"
+      },
+      {
+        "key": "§7Sellers: §a",
+        "value": "§7卖家：§a"
+      },
+      {
+        "key": "Loading...",
+        "value": "加载中..."
+      },
+      {
+        "key": "No market data",
+        "value": "无市场数据"
+      },
+      {
+        "key": "Top Seller ",
+        "value": "顶级卖家 "
+      },
+      {
+        "key": "⇄ Barter",
+        "value": "⇄ 交易"
+      },
+      {
+        "key": "↑↓ sort",
+        "value": "↑↓ 排序"
+      },
+      {
+        "key": "Item",
+        "value": "物品"
+      },
+      {
+        "key": "Payment",
+        "value": "支付"
+      },
+      {
+        "key": "Sell",
+        "value": "出售"
+      },
+      {
+        "key": "§a▲ Rising",
+        "value": "§a▲ 上涨"
+      },
+      {
+        "key": "§c▼ Falling",
+        "value": "§c▼ 下跌"
+      },
+      {
+        "key": "§7— Stable",
+        "value": "§7— 稳定"
+      },
+      {
+        "key": "Price",
+        "value": "价格"
+      },
+      {
+        "key": "Change",
+        "value": "变动"
+      },
+      {
+        "key": "Chart",
+        "value": "图表"
+      },
+      {
+        "key": "Trend",
+        "value": "趋势"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "by.deokma.stockmarket.neoforge.client.XaeroWaypointCompat"
+    ],
+    "pairs": [
+      {
+        "key": "Xaero's Minimap not installed",
+        "value": "Xaero的小地图未安装"
+      },
+      {
+        "key": "Couldn't open the Xaero waypoint menu",
+        "value": "无法打开 Xaero 的路标菜单"
+      }
+    ]
+  }
+]

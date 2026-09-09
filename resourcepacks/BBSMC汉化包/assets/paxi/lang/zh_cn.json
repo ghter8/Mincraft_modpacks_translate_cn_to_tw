@@ -1,0 +1,5 @@
+{
+  "text.autoconfig.paxi-fabric-1_21.title": "天境",
+  "text.autoconfig.paxi-fabric-1_21.option.general.loadFromBaseDatapacksDirectory": "从基础“datapacks”目录加载",
+  "text.autoconfig.paxi-fabric-1_21.option.general.loadFromBaseDatapacksDirectory.@Tooltip": "是否让天境强制加载位于基础Minecraft文件夹中“datapacks”文件夹内的所有数据包。此选项用于兼容CurseForge的新数据包系统。"
+}

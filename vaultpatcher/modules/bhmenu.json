@@ -1,0 +1,21 @@
+[
+  {
+    "name": "bhmenu_zh_cn",
+    "desc": "BHMenu-NeoForge-1.21-2.4.4.jar 硬编码文本汉化",
+    "authors": "Auto-Translation-Tool",
+    "mods": "BHMenu-NeoForge-1.21-2.4.4.jar",
+    "dynamic": false,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "com.bisecthosting.mods.bhmenu.modules.servercreatorbanner.screens.BannerEntry"
+    ],
+    "pairs": [
+      {
+        "key": "Server Banner",
+        "value": "服务器旗帜"
+      }
+    ]
+  }
+]

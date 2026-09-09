@@ -1,0 +1,40 @@
+[
+  {
+    "name": "puzzleslib_zh_cn",
+    "desc": "PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar 硬编码文本汉化",
+    "authors": "Auto-Translation-Tool",
+    "mods": "PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar",
+    "dynamic": false,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "fuzs.puzzleslib.impl.core.context.PayloadTypesContextImpl"
+    ],
+    "pairs": [
+      {
+        "key": "Receiving %s from %s failed: %s",
+        "value": "从 %2$s 接收 %1$s 失败：%3$s"
+      }
+    ]
+  },
+  {
+    "target_class": [
+      "fuzs.puzzleslib.neoforge.impl.client.config.NeoForgeConfigurationScreen"
+    ],
+    "pairs": [
+      {
+        "key": "Edit",
+        "value": "编辑"
+      },
+      {
+        "key": "Global Configurations",
+        "value": "全局配置"
+      },
+      {
+        "key": "World Configurations",
+        "value": "世界配置"
+      }
+    ]
+  }
+]

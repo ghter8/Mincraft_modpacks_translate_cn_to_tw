@@ -1,0 +1,41 @@
+[
+  {
+    "name": "bits_n_bobs_dynamic_zh_cn",
+    "desc": "bits_n_bobs-2.2.7.jar 硬编码文本汉化（动态替换）",
+    "authors": "Auto-Translation-Tool",
+    "mods": "bits_n_bobs-2.2.7.jar",
+    "dynamic": true,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "com.kipti.bnb.foundation.generation.editor.PonderflatEditor"
+    ],
+    "pairs": [
+      {
+        "key": "Ponderflat Settings",
+        "value": "沉思平面设置"
+      },
+      {
+        "key": "Cell Size: ",
+        "value": "单元格大小： "
+      },
+      {
+        "key": "Cell Style",
+        "value": "单元格样式"
+      },
+      {
+        "key": "Light Block ID:",
+        "value": "光方块 ID:"
+      },
+      {
+        "key": "Dark Block ID:",
+        "value": "暗色方块 ID:"
+      },
+      {
+        "key": "Preset: ",
+        "value": "预设： "
+      }
+    ]
+  }
+]
