@@ -1,0 +1,422 @@
+
+🔍 探測目標: C:\Users\etyet\Downloads\All of Create - Aeronautics-v2.5_task_faf972e0_汉化补丁\resourcepacks\BBSMC汉化包\assets\advanced_ae
+==================================================
+📂 advanced_ae/
+    📂 ae2guide/
+        📂 _zh_cn/
+            📂 aae_intro/
+                📄 aae_intro-index.md
+                📄 advanced_io_bus.md
+                📄 advanced_pattern_encoder.md
+                📄 advanced_pattern_provider.md
+                📄 app_upgrade_items.md
+                📄 import_export_bus.md
+                📄 quantum_armor.md
+                📄 quantum_computer.md
+                📄 quantum_crafter.md
+                📄 quantum_crafter_terminal.md
+                📄 reaction_chamber.md
+                📄 stock_export_bus.md
+                📄 throughput_monitor.md
+            📂 pic/
+                📄 ape_pattern.png
+                📄 app_gui.png
+                📄 pattern_configuration_ui.png
+                📄 quantum_armor_config.png
+                📄 quantum_crafter_ui.png
+    📂 lang/
+        📄 zh_cn.json  -> [JSON 結構: Keys: ['advanced_ae.configuration.Miscellaneous', 'advanced_ae.configuration.enableEffects', 'advanced_ae.configuration.quantum armor', 'advanced_ae.configuration.quantum computer', 'advanced_ae.configuration.quantumArmorAttackSpeedBoost']...]
+
+🔍 探測目標: C:\Users\etyet\Downloads\All of Create - Aeronautics-v2.5_task_faf972e0_汉化补丁\resourcepacks\BBSMC汉化包\assets\ae2
+==================================================
+📂 ae2/
+    📂 ae2guide/
+        📂 _zh_cn/
+            📄 ae2importexportcard-index.md
+            📄 getting-started.md
+            📄 index.md
+            📄 tips-and-tricks.md
+            📂 ae2-mechanics/
+                📄 ae2-mechanics-index.md
+                📄 autocrafting.md
+                📄 bytes-and-types.md
+                📄 cable-subparts.md
+                📄 certus-growth.md
+                📄 channels.md
+                📄 devices.md
+                📄 energy.md
+                📄 import-export-storage.md
+                📄 me-network-connections.md
+                📄 meteorites.md
+                📄 p2p-tunnels.md
+                📄 quantum-bridge.md
+                📄 spatial-io.md
+                📄 subnetworks.md
+            📂 assets/
+                📂 assemblies/
+                    📄 import_storage_export_pipe.snbt
+                    📄 machine_automation_1.snbt
+                    📄 machine_automation_2.snbt
+                    📄 metallurgic_infuser_automation.snbt
+                    📄 network_storage_types.snbt
+                    📄 provider_misconception_1.snbt
+                    📄 provider_misconception_2.snbt
+                    📄 provider_misconception_3.snbt
+                    📄 treelike_network_structure.snbt
+                📂 diagrams/
+                    📄 1_type_cell.png
+                    📄 63_type_cell.png
+                    📄 certus_farm_speed_chart_1.png
+                    📄 certus_farm_speed_chart_2.png
+                    📄 p2p_quantum_network.png
+                    📄 processor_flow_diagram.png
+            📂 diagrams/
+                📄 export_card.png
+                📄 import_card.png
+            📂 example-setups/
+                📄 advanced-certus-farm.md
+                📄 amethyst-farm.md
+                📄 bucket-emptier.md
+                📄 bucket-filler.md
+                📄 cell-dumper-filler.md
+                📄 charger-automation.md
+                📄 example-setups-index.md
+                📄 furnace-automation.md
+                📄 interface-autostocking.md
+                📄 level-emitter-autostocking.md
+                📄 main-network.md
+                📄 ore-fortuner.md
+                📄 pipe-subnet.md
+                📄 processor-automation.md
+                📄 recursive-crafting-setup.md
+                📄 regulated-cobble-gen.md
+                📄 semiauto-certus-farm.md
+                📄 simple-certus-farm.md
+                📄 specialized-local-storage.md
+                📄 storage-types.md
+                📄 throw-in-water-automation.md
+            📂 items-blocks-machines/
+                📄 annihilation_plane.md
+                📄 budding_certus.md
+                📄 cables.md
+                📄 cable_anchor.md
+                📄 cell_workbench.md
+                📄 certus_quartz_crystal.md
+                📄 certus_quartz_crystal_charged.md
+                📄 certus_quartz_dust.md
+                📄 charged_staff.md
+                📄 charger.md
+                📄 chest.md
+                📄 color_applicator.md
+                📄 condenser.md
+                📄 controller.md
+                📄 crafting_cpu_multiblock.md
+                📄 crank.md
+                📄 crystal_resonance_generator.md
+                📄 cutting_knives.md
+                📄 decorative_certus.md
+                📄 decorative_fluix.md
+                📄 decorative_sky_stone.md
+                📄 drive.md
+                📄 ender_dust.md
+                📄 energy_acceptor.md
+                📄 energy_cells.md
+                📄 entropy_manipulator.md
+                📄 export_bus.md
+                📄 facades.md
+                📄 fluix_block.md
+                📄 fluix_crystal.md
+                📄 fluix_dust.md
+                📄 fluix_pearl.md
+                📄 fluix_researcher.md
+                📄 fluix_tools.md
+                📄 fluix_upgrade_smithing_template.md
+                📄 formation_annihilation_core.md
+                📄 formation_plane.md
+                📄 growth_accelerator.md
+                📄 guide.md
+                📄 illuminated_panels.md
+                📄 import_bus.md
+                📄 inscriber.md
+                📄 interface.md
+                📄 io_port.md
+                📄 items-blocks-machines-index.md
+                📄 level_emitter.md
+                📄 matter_ball.md
+                📄 matter_cannon.md
+                📄 memory_card.md
+                📄 meteorite_compass.md
+                📄 molecular_assembler.md
+                📄 monitors.md
+                📄 mysterious_cube.md
+                📄 network_tool.md
+                📄 p2p_tunnels.md
+                📄 paintballs.md
+                📄 patterns.md
+                📄 pattern_provider.md
+                📄 presses.md
+                📄 processors.md
+                📄 quantum_bridge.md
+                📄 quartz_block.md
+                📄 quartz_fiber.md
+                📄 quartz_fixture.md
+                📄 quartz_glass.md
+                📄 quartz_tools.md
+                📄 singularities.md
+                📄 sky_dust.md
+                📄 sky_stone.md
+                📄 sky_stone_tank.md
+                📄 spatial_anchor.md
+                📄 spatial_cells.md
+                📄 spatial_io_port.md
+                📄 spatial_pylon.md
+                📄 storage_bus.md
+                📄 storage_cells.md
+                📄 terminals.md
+                📄 tiny_tnt.md
+                📄 toggle_bus.md
+                📄 upgrade_cards.md
+                📄 vibration_chamber.md
+                📄 view_cell.md
+                📄 wireless_access_point.md
+                📄 wireless_receiver.md
+                📄 wireless_terminals.md
+                📄 wrench.md
+
+🔍 探測目標: C:\Users\etyet\Downloads\All of Create - Aeronautics-v2.5_task_faf972e0_汉化补丁\resourcepacks\BBSMC汉化包\assets\ae2fct
+==================================================
+📂 ae2fct/
+    📂 ae2guide/
+        📂 _zh_cn/
+            📄 index.md
+            📄 terminal_fluid_interact_card.md
+    📂 lang/
+        📄 zh_cn.json  -> [JSON 結構: Keys: ['item.ae2fct.terminal_fluid_interact_card', 'item.ae2fct.terminal_fluid_interact_card.desc']...]
+
+🔍 探測目標: C:\Users\etyet\Downloads\All of Create - Aeronautics-v2.5_task_faf972e0_汉化补丁\resourcepacks\BBSMC汉化包\assets\ae2guide
+==================================================
+📂 ae2guide/
+    📂 _zh_cn/
+        📄 index.md
+        📄 terminal_bookmark_interact_card.md
+
+🔍 探測目標: C:\Users\etyet\Downloads\All of Create - Aeronautics-v2.5_task_faf972e0_汉化补丁\resourcepacks\BBSMC汉化包\assets\ae2netanalyser
+==================================================
+📂 ae2netanalyser/
+    📂 ae2guide/
+        📂 _zh_cn/
+            📄 ae2_network_analyser.md
+            📄 ae2_tick_profiler.md
+            📂 pic/
+                📄 gui.png
+                📄 gui2.png
+    📂 lang/
+        📄 zh_cn.json  -> [JSON 結構: Keys: ['itemGroup.ae2netanalyser', 'item.ae2netanalyser.network_analyser', 'item.ae2netanalyser.tick_analyser', 'gui.ae2netanalyser.network_analyser.mode', 'gui.ae2netanalyser.network_analyser.node_size']...]
+
+🔍 探測目標: C:\Users\etyet\Downloads\All of Create - Aeronautics-v2.5_task_faf972e0_汉化补丁\resourcepacks\BBSMC汉化包\assets\ae2wtlib
+==================================================
+📂 ae2wtlib/
+    📂 ae2guide/
+        📂 _zh_cn/
+            📂 ae2wtlib/
+                📄 ae2wtlib-index.md
+                📄 magnet_card.md
+                📄 quantum_bridge_card.md
+                📄 restock.md
+                📄 wireless_crafting_terminal.md
+                📄 wireless_terminals.md
+                📄 wireless_universal_terminal.md
+    📂 lang/
+        📄 zh_cn.json  -> [JSON 結構: Keys: ['gui.ae2wtlib.creativetab', 'gui.ae2wtlib.trash', 'item.ae2wtlib.quantum_bridge_card', 'item.ae2wtlib.quantum_bridge_card.desc', 'item.ae2wtlib.magnet_card']...]
+
+🔍 探測目標: C:\Users\etyet\Downloads\All of Create - Aeronautics-v2.5_task_faf972e0_汉化补丁\resourcepacks\BBSMC汉化包\assets\appflux
+==================================================
+📂 appflux/
+    📂 ae2guide/
+        📂 _zh_cn/
+            📂 appflux/
+                📄 appflux-index.md
+                📄 diamond_dust.md
+                📄 emerald_dust.md
+                📄 energy_processor.md
+                📄 flux_accessor.md
+                📄 flux_cells.md
+                📄 induction_card.md
+                📄 insulating_resin.md
+                📄 mark_energy.md
+                📄 portable_flux_cells.md
+                📄 redstone_crystal.md
+                📄 terminal_interact.md
+            📂 pic/
+                📄 fe_mark.png
+                📄 fe_terminal.png
+                📄 fe_terminal2.png
+    📂 lang/
+        📄 zh_cn.json  -> [JSON 結構: Keys: ['itemGroup.af', 'item.appflux.fe_cell_housing', 'item.appflux.fe_1k_cell', 'item.appflux.fe_4k_cell', 'item.appflux.fe_16k_cell']...]
+
+🔍 探測目標: C:\Users\etyet\Downloads\All of Create - Aeronautics-v2.5_task_faf972e0_汉化补丁\resourcepacks\BBSMC汉化包\assets\appliede
+==================================================
+📂 appliede/
+    📂 ae2guide/
+        📂 _zh_cn/
+            📄 appliede-index.md
+            📄 transmutation_devices.md
+            📄 transmutation_module.md
+            📄 transmutation_terminal.md
+            📂 diagrams/
+                📄 are_you_sure.png
+                📄 emc_storage.png
+                📄 emc_tiers.png
+                📄 klein_star_filling.png
+                📄 terminal_ui.png
+                📄 transmutable_item.png
+    📂 lang/
+        📄 zh_cn.json  -> [JSON 結構: Keys: ['mod.appliede', 'block.appliede.emc_interface', 'item.appliede.cable_emc_interface', 'item.appliede.emc_module', 'item.appliede.emc_export_bus']...]
+
+🔍 探測目標: C:\Users\etyet\Downloads\All of Create - Aeronautics-v2.5_task_faf972e0_汉化补丁\resourcepacks\BBSMC汉化包\assets\enderdrives
+==================================================
+📂 enderdrives/
+    📂 ae2guide/
+        📂 _zh_cn/
+            📂 enderdrives_intro/
+                📄 enderdrives_intro-index.md
+                📄 enderdrives_intro.md
+                📄 megaenderdrives_intro.md
+                📄 tapedrive_intro.md
+    📂 lang/
+        📄 zh_cn.json  -> [JSON 結構: Keys: ['key.categories.enderdrives', 'item.enderdrives.ender_storage_component_1k', 'item.enderdrives.ender_storage_component_4k', 'item.enderdrives.ender_storage_component_16k', 'item.enderdrives.ender_storage_component_64k']...]
+
+🔍 探測目標: C:\Users\etyet\Downloads\All of Create - Aeronautics-v2.5_task_faf972e0_汉化补丁\resourcepacks\BBSMC汉化包\assets\extendedae
+==================================================
+📂 extendedae/
+    📂 ae2guide/
+        📂 _zh_cn/
+            📂 epp_intro/
+                📄 active_formation_plane.md
+                📄 assembler_matrix.md
+                📄 caner.md
+                📄 circuit_cutter.md
+                📄 concurrent_processor.md
+                📄 config_modifier.md
+                📄 crystal_assembler.md
+                📄 crystal_fixer.md
+                📄 entro_block.md
+                📄 entro_budding.md
+                📄 entro_crystal.md
+                📄 entro_dust.md
+                📄 entro_ingot.md
+                📄 entro_seed.md
+                📄 entro_shard.md
+                📄 epp_intro-index.md
+                📄 extended_charger.md
+                📄 extended_drive.md
+                📄 extended_inscriber.md
+                📄 extended_interface.md
+                📄 extended_io_bus.md
+                📄 extended_io_port.md
+                📄 extended_modecular_assembler.md
+                📄 extended_pattern_provider.md
+                📄 extended_pattern_terminal.md
+                📄 infinity_cell.md
+                📄 ingredient_buffer.md
+                📄 machine_frame.md
+                📄 mod_export_bus.md
+                📄 mod_storage_bus.md
+                📄 oversize_interface.md
+                📄 packing_tape.md
+                📄 pattern_modifier.md
+                📄 precise_export_bus.md
+                📄 precise_storage_bus.md
+                📄 quartz_blend.md
+                📄 silicon_block.md
+                📄 smart_annihilation_plane.md
+                📄 tag_export_bus.md
+                📄 tag_storage_bus.md
+                📄 threshold_export_bus.md
+                📄 threshold_level_emitter.md
+                📄 upgrade_items.md
+                📄 void_cell.md
+                📄 wireless_connector.md
+                📄 wireless_hub.md
+            📂 pic/
+                📄 assembler_matrix.png
+                📄 caner_gui.png
+                📄 cm.png
+                📄 ei_gui.png
+                📄 epa_gui1.png
+                📄 epa_gui2.png
+                📄 epa_gui3.png
+                📄 epp_gui.png
+                📄 mod_bus_name.png
+                📄 mod_bus_name2.png
+                📄 pm.png
+                📄 pm3.png
+                📄 pm4.png
+                📄 pm5.png
+                📄 pm8.png
+                📄 pre_bus_gui1.png
+                📄 pre_bus_gui2.png
+                📄 pre_storage_bus.png
+                📄 thr_bus_gui1.png
+                📄 thr_bus_gui2.png
+                📄 void_cell.png
+                📄 wireless_hub_gui.png
+    📂 lang/
+        📄 zh_cn.json  -> [JSON 結構: Keys: ['itemGroup.extendedae', 'block.extendedae.entro_cluster_small', 'block.extendedae.entro_cluster_medium', 'block.extendedae.entro_cluster_large', 'block.extendedae.entro_cluster']...]
+
+🔍 探測目標: C:\Users\etyet\Downloads\All of Create - Aeronautics-v2.5_task_faf972e0_汉化补丁\resourcepacks\BBSMC汉化包\assets\extendedterminal
+==================================================
+📂 extendedterminal/
+    📂 ae2guide/
+        📂 _zh_cn/
+            📄 charged_ender_pearl.md
+            📄 compat_processor.md
+            📄 index.md
+            📂 terminals/
+                📄 avaritianeo.md
+                📄 extendedcrafting.md
+                📄 extendedterminal.md
+                📄 re_avaritia.md
+    📂 lang/
+        📄 zh_cn.json  -> [JSON 結構: Keys: ['itemGroup.extendedterminal', 'item.extendedterminal.et_terminal', 'item.extendedterminal.wireless_et_terminal', 'item.extendedterminal.basic_terminal', 'item.extendedterminal.advanced_terminal']...]
+
+🔍 探測目標: C:\Users\etyet\Downloads\All of Create - Aeronautics-v2.5_task_faf972e0_汉化补丁\resourcepacks\BBSMC汉化包\assets\merequester
+==================================================
+📂 merequester/
+    📂 ae2guide/
+        📂 _zh_cn/
+            📄 merequester.md
+            📂 assets/
+                📄 gui.png
+    📂 lang/
+        📄 zh_cn.json  -> [JSON 結構: Keys: ['itemGroup.merequester.tab', 'item.merequester.requester_terminal', 'item.merequester.wireless_requester_terminal', 'block.merequester.requester', 'key.ae2.wireless_requester_terminal']...]
+
+🔍 探測目標: C:\Users\etyet\Downloads\All of Create - Aeronautics-v2.5_task_faf972e0_汉化补丁\resourcepacks\BBSMC汉化包\assets\myotus
+==================================================
+📂 myotus/
+    📂 ae2guide/
+        📂 _zh_cn/
+            📄 index.md
+    📂 lang/
+        📄 zh_cn.json  -> [JSON 結構: Keys: ['itemGroup.myotus', 'gui.myotus.button.bug_report.tooltip', 'gui.myotus.button.ae2setting', 'error.myotus.mod.loading.version.mismatch', 'gui.myotus.config.title']...]
+
+🔍 探測目標: C:\Users\etyet\Downloads\All of Create - Aeronautics-v2.5_task_faf972e0_汉化补丁\resourcepacks\BBSMC汉化包\assets\rep_ae2_bridge
+==================================================
+📂 rep_ae2_bridge/
+    📂 ae2guide/
+        📂 _zh_cn/
+            📂 rep_intro/
+                📄 repae2bridge.md
+                📄 rep_intro-index.md
+    📂 lang/
+        📄 zh_cn.json  -> [JSON 結構: Keys: ['item.rep_ae2_bridge.earth', 'item.rep_ae2_bridge.nether', 'item.rep_ae2_bridge.organic', 'item.rep_ae2_bridge.ender', 'item.rep_ae2_bridge.metallic']...]
+
+🔍 探測目標: C:\Users\etyet\Downloads\All of Create - Aeronautics-v2.5_task_faf972e0_汉化补丁\resourcepacks\BBSMC汉化包\assets\schematicenergistics
+==================================================
+📂 schematicenergistics/
+    📂 ae2guide/
+        📂 _zh_cn/
+            📄 cannon_interface.md
+            📄 cannon_terminal.md
+    📂 lang/
+        📄 zh_cn.json  -> [JSON 結構: Keys: ['block.schematicenergistics.cannon_interface', 'item.schematicenergistics.cannon_interface_part', 'item.schematicenergistics.cannon_interface_terminal', 'block.schematicenergistics.cannon_interface.tooltip', 'creativetab.schematicenergistics.title']...]

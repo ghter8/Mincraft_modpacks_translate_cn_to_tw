@@ -14,15 +14,15 @@
     "pairs": [
       {
         "key": "Open Mods Folder",
-        "value": "打开模組檔案夹"
+        "value": "開啟模組資料夾"
       },
       {
         "key": "Open log file",
-        "value": "打开日志檔案"
+        "value": "開啟日誌檔案"
       },
       {
         "key": "Open crash report",
-        "value": "打开崩溃报告"
+        "value": "開啟崩潰報告"
       },
       {
         "key": "Quit Game",
@@ -30,7 +30,7 @@
       },
       {
         "key": "Supplementaries (suslementaries) has done messed up :(\n",
-        "value": "锦致装饰 出现了严重问题 :(\n"
+        "value": "錦致裝飾 出現了嚴重問題 :(\n"
       }
     ]
   }

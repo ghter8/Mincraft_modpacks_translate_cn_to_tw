@@ -1,0 +1,128 @@
+📦 【advanced_ae】
+   ┣ 異常資料夾: ae2guide
+   ┗ 包含副檔名: .json, .png, .md
+
+📦 【ae2】
+   ┣ 異常資料夾: ae2guide
+   ┗ 包含副檔名: .snbt, .png, .md
+
+📦 【ae2fct】
+   ┣ 異常資料夾: ae2guide
+   ┗ 包含副檔名: .json, .md
+
+📦 【ae2guide】
+   ┣ 異常資料夾: _zh_cn
+   ┗ 包含副檔名: .md
+
+📦 【ae2netanalyser】
+   ┣ 異常資料夾: ae2guide
+   ┗ 包含副檔名: .json, .png, .md
+
+📦 【ae2wtlib】
+   ┣ 異常資料夾: ae2guide
+   ┗ 包含副檔名: .json, .md
+
+📦 【appflux】
+   ┣ 異常資料夾: ae2guide
+   ┗ 包含副檔名: .json, .png, .md
+
+📦 【appliede】
+   ┣ 異常資料夾: ae2guide
+   ┗ 包含副檔名: .json, .png, .md
+
+📦 【ars_nouveau】
+   ┣ 異常資料夾: patchouli_books
+   ┗ 包含副檔名: .json
+
+📦 【enchanted】
+   ┣ 異常資料夾: modopedia
+   ┗ 包含副檔名: .json
+
+📦 【enderdrives】
+   ┣ 異常資料夾: ae2guide
+   ┗ 包含副檔名: .json, .md
+
+📦 【extendedae】
+   ┣ 異常資料夾: ae2guide
+   ┗ 包含副檔名: .json, .png, .md
+
+📦 【extendedterminal】
+   ┣ 異常資料夾: ae2guide
+   ┗ 包含副檔名: .json, .md
+
+📦 【hni_guidebook】
+   ┣ 異常資料夾: _zh_cn
+   ┗ 包含副檔名: .md
+
+📦 【immersiveposts】
+   ┣ 異常資料夾: manual
+   ┗ 包含副檔名: .json, .txt
+
+📦 【industrialization_overdrive】
+   ┣ 異常資料夾: mi_guidebook
+   ┗ 包含副檔名: .json, .md
+
+📦 【justdirethings】
+   ┣ 異常資料夾: patchouli_books
+   ┗ 包含副檔名: .json
+
+📦 【justdynathings】
+   ┣ 異常資料夾: guides
+   ┗ 包含副檔名: .json, .md
+
+📦 【laserio】
+   ┣ 異常資料夾: patchouli_books
+   ┗ 包含副檔名: .json
+
+📦 【little_big_redstone】
+   ┣ 異常資料夾: guide
+   ┗ 包含副檔名: .json, .png, .md
+
+📦 【merequester】
+   ┣ 異常資料夾: ae2guide
+   ┗ 包含副檔名: .json, .png, .md
+
+📦 【minecraft】
+   ┣ 異常資料夾: font, textures
+   ┗ 包含副檔名: .json, .png
+
+📦 【myotus】
+   ┣ 異常資料夾: ae2guide
+   ┗ 包含副檔名: .json, .md
+
+📦 【powah】
+   ┣ 異常資料夾: guides
+   ┗ 包含副檔名: .json, .md
+
+📦 【productivemetalworks】
+   ┣ 異常資料夾: patchouli_books
+   ┗ 包含副檔名: .json
+
+📦 【rep_ae2_bridge】
+   ┣ 異常資料夾: ae2guide
+   ┗ 包含副檔名: .json, .md
+
+📦 【rftoolsbuilder】
+   ┣ 異常資料夾: gui
+   ┗ 包含副檔名: .json, .gui
+
+📦 【rftoolspower】
+   ┣ 異常資料夾: gui
+   ┗ 包含副檔名: .json, .gui
+
+📦 【schematicenergistics】
+   ┣ 異常資料夾: ae2guide
+   ┗ 包含副檔名: .json, .md
+
+📦 【spaceploitation】
+   ┣ 異常資料夾: mj_guide
+   ┗ 包含副檔名: .json, .md
+
+📦 【synergy】
+   ┣ 異常資料夾: guides
+   ┗ 包含副檔名: .json, .md
+
+📦 【woot_revived】
+   ┣ 異常資料夾: guidebook
+   ┗ 包含副檔名: .json, .md
+
