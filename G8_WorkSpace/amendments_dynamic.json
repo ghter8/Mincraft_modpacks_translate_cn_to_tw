@@ -1,0 +1,37 @@
+[
+  {
+    "name": "amendments_dynamic_zh_cn",
+    "desc": "supplementaries-1.21.1-3.9.5-neoforge.jar 硬编码文本汉化（动态替换）",
+    "authors": "Auto-Translation-Tool",
+    "mods": "supplementaries-1.21.1-3.9.5-neoforge.jar",
+    "dynamic": true,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "net.mehvahdjukaar.supplementaries.client.screens.FunnyScreen"
+    ],
+    "pairs": [
+      {
+        "key": "Open Mods Folder",
+        "value": "打开模组文件夹"
+      },
+      {
+        "key": "Open log file",
+        "value": "打开日志文件"
+      },
+      {
+        "key": "Open crash report",
+        "value": "打开崩溃报告"
+      },
+      {
+        "key": "Quit Game",
+        "value": "退出游戏"
+      },
+      {
+        "key": "Supplementaries (suslementaries) has done messed up :(\n",
+        "value": "锦致装饰 出现了严重问题 :(\n"
+      }
+    ]
+  }
+]
