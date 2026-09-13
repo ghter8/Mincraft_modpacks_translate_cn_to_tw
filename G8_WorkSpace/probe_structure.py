@@ -34,5 +34,5 @@ def probe_folder_structure(target_dir):
 if __name__ == "__main__":
     # 請將路徑替換為你本地端 ae2 或 advanced_ae 的 ae2guide 路徑
     # 建議先測試 advanced_ae 
-    TARGET = r"C:\Users\etyet\Desktop\Aeronautic\Mincraft_modpacks_translate_cn_to_tw\resourcepacks\BBSMC汉化包\assets\ars_nouveau"
+    TARGET = r"C:\Users\etyet\Downloads\All of Create - Aeronautics-v2.5_task_faf972e0_汉化补丁\resourcepacks\BBSMC汉化包\assets\immersiveposts"
     probe_folder_structure(TARGET)

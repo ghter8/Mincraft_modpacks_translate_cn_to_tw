@@ -1,0 +1,8 @@
+🔍 開始掃描目錄，尋找包含中文的 JSON Keys: ../resourcepacks/BBSMC汉化包/assets/enchanted/modopedia
+
+✅ 掃描完成！共檢查了 122 個 JSON 檔案。
+🎯 發現包含中文的 Keys 如下 (請將此名單提供給我做白名單)：
+   - header
+   - landing_text
+   - text
+   - title

@@ -32,4 +32,8 @@ def build_mc_dict(cn_path, tw_path, output_path):
 
 if __name__ == "__main__":
     # 請確保檔名與你實際獲取的官方檔名一致
-    build_mc_dict("zh_cn.json", "zh_tw.json", "mc_terms.json")
+    build_mc_dict(
+        r"D:\CurseForge\minecraft\Instances\All of Create Aeronautics\mods\createframed-1.21.1-1.8.2\assets\createframed\lang\zh_cn.json",
+        r"D:\CurseForge\minecraft\Instances\All of Create Aeronautics\mods\createframed-1.21.1-1.8.2\assets\createframed\lang\zh_tw.json",
+        "terms/createframed_terms.json"
+        )
