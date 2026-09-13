@@ -9,3 +9,9 @@ resourcepacks_zh_tw
 G8_WorkSpace/NoZhTW
 G8_WorkSpace/NoZhTW_zh_tw
 G8_WorkSpace/assets
+
+# 忽略 versions 資料夾底下的所有子目錄與檔案
+release/*/*
+
+# 例外保留各版本目錄下的 release.zip
+!release/*/*.zip
